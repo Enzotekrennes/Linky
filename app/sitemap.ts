@@ -13,7 +13,7 @@ const PAGES: { path: string; updated: string; changeFrequency: 'weekly' | 'month
   { path: '/', updated: '2026-10-31', changeFrequency: 'weekly', priority: 1.0 },
   { path: '/services/', updated: '2026-10-23', changeFrequency: 'monthly', priority: 0.8 },
   { path: '/secteurs/', updated: '2026-10-23', changeFrequency: 'monthly', priority: 0.8 },
-  { path: '/secteurs/formation/', updated: '2026-10-23', changeFrequency: 'monthly', priority: 0.8 },
+  { path: '/secteurs/formation/', updated: '2026-11-05', changeFrequency: 'monthly', priority: 0.8 },
   { path: '/secteurs/immobilier/', updated: '2026-10-23', changeFrequency: 'monthly', priority: 0.8 },
   { path: '/secteurs/btp/', updated: '2026-10-23', changeFrequency: 'monthly', priority: 0.8 },
   { path: '/cas-clients/', updated: '2026-10-23', changeFrequency: 'monthly', priority: 0.7 },

@@ -7,6 +7,7 @@ import { CasesSection } from '@/components/home/CasesSection';
 import { MethodSection } from '@/components/home/MethodSection';
 import { SectionKicker } from '@/components/ui/SectionKicker';
 import { AutomationDemo } from '@/components/motion/AutomationDemo';
+import { getAllArticles } from '@/lib/articles';
 import type { ClientCase } from '@/lib/cases';
 import type { DemoKey } from '@/lib/demoFlows';
 
@@ -30,6 +31,8 @@ export interface SectorPageProps {
   demo: DemoKey[];
   ctaTitle: string;
   ctaText: string;
+  /** Articles mis en avant, dans l'ordre d'affichage. Sans article, la section n'apparaît pas. */
+  reading?: { title: string; slugs: string[] };
 }
 
 /** Gabarit des pages /secteurs/* (hors BTP, qui garde ses sections historiques). */
@@ -43,6 +46,10 @@ export const SectorPage: React.FC<SectorPageProps> = (p) => {
       { '@type': 'ListItem', position: 3, name: p.breadcrumbName, item: p.url },
     ],
   };
+
+  const readingArticles = (p.reading?.slugs ?? [])
+    .map((slug) => getAllArticles().find((a) => a.slug === slug))
+    .filter((a) => a !== undefined);
 
   return (
     <div className="min-h-screen flex flex-col bg-white">
@@ -125,6 +132,28 @@ export const SectorPage: React.FC<SectorPageProps> = (p) => {
         )}
 
         <MethodSection background={PAPER} />
+
+        {readingArticles.length > 0 && (
+          <section className="py-20 md:py-28 bg-white" aria-labelledby="reading-title">
+            <div className="container mx-auto px-6 max-w-6xl">
+              <h2 data-reveal id="reading-title" className="font-heading font-bold leading-[1.05] tracking-tight text-3xl md:text-5xl max-w-3xl" style={{ color: NAVY }}>
+                {p.reading?.title}
+              </h2>
+              <ul className="mt-12 grid grid-cols-1 md:grid-cols-2 gap-x-14">
+                {readingArticles.map((a) => (
+                  <li key={a.slug} data-reveal className="border-t" style={{ borderColor: RULE }}>
+                    <Link href={`/articles/${a.slug}/`} className="group block py-7">
+                      <span className="block font-semibold text-lg md:text-xl leading-snug group-hover:underline underline-offset-4" style={{ color: NAVY }}>
+                        {a.title}
+                      </span>
+                      <span className="block mt-2 text-base text-gray-700 leading-relaxed">{a.description}</span>
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </section>
+        )}
 
         <section className="py-20 md:py-28" style={{ background: NAVY }}>
           <div className="container mx-auto px-6 max-w-5xl">
