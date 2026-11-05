@@ -1,5 +1,24 @@
 [
     {
+        "id": 19,
+        "slug": "fin-subrogation-opco-organisme-formation",
+        "title": "Fin de la subrogation OPCO : qui facturer depuis octobre 2026",
+        "description": "Subrogation OPCO depuis octobre 2026 : qui facturer selon l'OPCO et le dossier, et comment suivre paiements et relances dans votre organisme.",
+        "imageSrc": "/images/Logo_1200x630.png",
+        "icon": "file-text",
+        "publishedAt": "2026-11-05",
+        "category": "Réglementation",
+        "seoTitle": "Fin subrogation OPCO : qui facturer depuis octobre 2026",
+        "related": [
+            "relances-automatiques-impayes-btp",
+            "facturation-electronique-2026",
+            "organisation-avant-developpement"
+        ],
+        "tools": [
+            "calcul-penalites-de-retard"
+        ]
+    },
+    {
         "id": 18,
         "slug": "marge-chantier-suivi-reel",
         "title": "Calculer la marge d'un chantier : prévue contre réelle",
@@ -129,7 +148,7 @@
         "related": [
             "automatiser-sans-erp",
             "relances-automatiques-impayes-btp",
-            "maprimerenov-2026"
+            "fin-subrogation-opco-organisme-formation"
         ],
         "tools": [
             "calcul-situation-de-travaux"
