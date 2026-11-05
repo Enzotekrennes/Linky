@@ -49,7 +49,7 @@ Avant de signer un devis logiciel, posez-vous ces quatre questions, honnêtement
 
 **3. Est-ce que mon équipe terrain est partie prenante du choix ?** Si vous achetez un logiciel pour vos chefs de chantier sans les consulter, ils ne l'utiliseront pas. C'est mécanique. Faites-leur tester 2 candidats sur un vrai chantier pendant 2 semaines avant de décider. Si aucun ne s'impose à l'usage, le besoin est ailleurs.
 
-**4. Est-ce que je sais combien le problème actuel me coûte par semaine ?** Si vous ne pouvez pas répondre en heures et en euros, vous n'êtes pas prêt à acheter. Vous risquez de payer un nouveau logiciel pour résoudre un problème dont vous ne mesurez ni l'ampleur, ni le coût réel.
+**4. Est-ce que je sais combien le problème actuel me coûte par semaine ?** Si vous ne pouvez pas répondre [en heures et en euros](/outils/calcul-cout-horaire-main-doeuvre/), vous n'êtes pas prêt à acheter. Vous risquez de payer un nouveau logiciel pour résoudre un problème dont vous ne mesurez ni l'ampleur, ni le coût réel.
 
 ## Quand un nouvel outil se justifie vraiment
 
@@ -67,7 +67,7 @@ Hors de ces trois cas, le réflexe "je change de logiciel" coûte presque toujou
 
 Un exemple construit à partir d'une situation courante : une boîte d'élec qui veut quitter Batappli pour Obat. En écoutant le patron, le vrai problème ressort vite. Les modèles de devis n'ont jamais été paramétrés depuis l'installation 4 ans plus tôt. Les commerciaux ressaisissent l'essentiel à la main à chaque devis. Le module situation existe mais n'est pas activé, et l'export comptable n'est pas connecté.
 
-Changer pour Obat coûterait 3 000 à 8 000 € de migration plus l'abonnement plus 6 mois de mise en place. Re-paramétrer Batappli proprement coûte 0 € d'abonnement supplémentaire et 2 à 3 semaines de travail. Dans ce cas, re-paramétrer suffit à régler l'essentiel des frictions, sans changer d'outil.
+Changer pour Obat coûterait 3 000 à 8 000 € de migration plus l'abonnement plus 6 mois de mise en place. [Re-paramétrer Batappli proprement](/secteurs/btp/) coûte 0 € d'abonnement supplémentaire et 2 à 3 semaines de travail. Dans ce cas, re-paramétrer suffit à régler l'essentiel des frictions, sans changer d'outil.
 
 Batappli et Obat se valent : les deux font le travail. Ce qui bloquait, c'était l'usage, pas le choix de l'outil. Et tant qu'on ne l'a pas vu, on remplace un logiciel sous-utilisé par un autre logiciel sous-utilisé.
 
@@ -75,7 +75,7 @@ Batappli et Obat se valent : les deux font le travail. Ce qui bloquait, c'était
 
 Trois actions à mener dans les 30 jours, avant de signer.
 
-**1. Faites un audit honnête de l'usage actuel sur 1 mois.** Pour chaque module de votre logiciel, regardez qui s'en sert, à quelle fréquence, et pour quoi faire. La méthode la plus simple : 4 entretiens de 20 minutes (patron, assistante, chef de chantier, comptable). À la fin, vous avez votre score d'exploitation, module par module.
+**1. Faites un audit honnête de l'usage actuel sur 1 mois.** Pour chaque module de votre logiciel, regardez qui s'en sert, à quelle fréquence, et pour quoi faire. La méthode la plus simple : 4 entretiens de 20 minutes (patron, assistante, chef de chantier, comptable). À la fin, vous avez [votre score d'exploitation](/articles/diagnostic-operationnel-pme/), module par module.
 
 **2. Listez vos 5 vraies frictions, hors outil.** "Mon devis met 5 jours à sortir parce que personne ne sait quel modèle utiliser." "On rate des relances de retenue de garantie parce qu'aucune alerte n'est posée." "Les photos chantier ne sont jamais retrouvées quand le client réclame." Ces frictions relèvent de l'organisation. Aucun nouveau logiciel ne les résout tout seul.
 

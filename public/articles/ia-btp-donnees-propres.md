@@ -45,15 +45,15 @@ Concrètement, avant de parler IA, il faut que vos données de base soient tenue
 - **Vos chantiers centralisés** : un dossier par chantier, pas douze groupes WhatsApp.
 - **Vos devis et factures qui sortent d'un seul endroit**, au format propre, pas d'un mélange Excel et logiciel.
 - **Vos informations clients complètes** : coordonnées, SIREN, historique, au même endroit.
-- **Vos heures et achats remontés** sans ressaisie.
+- **[Vos heures et achats remontés](/articles/marge-chantier-suivi-reel/)** sans ressaisie.
 
-Une fois ce socle en place, l'automatisation devient utile. Les relances partent toutes seules, les rapports se génèrent, et oui, l'IA peut alors trier, résumer, alerter, parce qu'elle a enfin de la matière fiable.
+Une fois ce socle en place, l'automatisation devient utile. [Les relances partent toutes seules](/articles/relances-automatiques-impayes-btp/), les rapports se génèrent, et oui, l'IA peut alors trier, résumer, alerter, parce qu'elle a enfin de la matière fiable.
 
 ## L'IA utile, c'est celle qui s'appuie sur du propre
 
 On n'est pas contre l'IA, loin de là. Mais on refuse de la vendre comme un raccourci qui dispense de s'organiser. Un compte rendu de réunion de chantier enregistré, transcrit et synthétisé automatiquement, ça fait gagner un temps réel. À condition que le reste du circuit tienne.
 
-L'IA est un accélérateur, pas une fondation. Posée sur une boîte désorganisée, elle accélère le chaos. Posée sur un système propre, elle vous rend des heures.
+L'IA est un accélérateur, pas une fondation. Posée sur une boîte désorganisée, elle accélère le chaos. Posée sur [un système propre](/secteurs/btp/), elle vous rend des heures.
 
 ## Par où commencer
 

@@ -33,7 +33,7 @@ Vos fournisseurs de cuivre, de chaudières, de gaines, de PVC, ce sont souvent d
 
 OpinionWay a publié au printemps un sondage pour la fintech Tiime. Le chiffre : **4 TPE sur 10 ne seront pas prêtes** au 1er septembre 2026. Sur les 10 millions d'entreprises concernées par la réforme, ça fait beaucoup de monde qui va découvrir l'obligation au moment où ses fournisseurs commenceront à lui envoyer des factures qu'elle ne peut pas traiter.
 
-Le sondage ne segmente pas par secteur. Mais quand on connaît le BTP second œuvre, on sait que les boîtes de 8 à 60+ collaborateurs sont rarement en avance sur les sujets administratifs. Le devis, la facture, la situation, c'est déjà fait à l'arrache entre Excel et Batappli. Alors la Plateforme Agréée, le Factur-X, les 4 nouvelles mentions obligatoires sur les factures, tout ça arrive très loin dans la liste des priorités.
+Le sondage ne segmente pas par secteur. Mais quand on connaît [le BTP second œuvre](/secteurs/btp/), on sait que les boîtes de 8 à 60+ collaborateurs sont rarement en avance sur les sujets administratifs. Le devis, la facture, la situation, c'est déjà fait à l'arrache entre Excel et Batappli. Alors la Plateforme Agréée, le Factur-X, les 4 nouvelles mentions obligatoires sur les factures, tout ça arrive très loin dans la liste des priorités.
 
 Sauf que la vraie échéance pour vous n'est pas septembre 2027, quand vous devrez émettre. C'est septembre 2026, quand vous devrez recevoir.
 
@@ -45,7 +45,7 @@ Trois changements concrets, dans cet ordre.
 
 **2. Vous devez nettoyer votre fichier clients.** À partir de septembre 2026, les nouvelles factures émises devront porter 4 mentions supplémentaires : le numéro SIREN du client professionnel, l'adresse de livraison si elle diffère de la facturation (très fréquent pour vos chantiers), la nature de l'opération (livraison de biens, prestation de services, ou opération mixte, ce qui est votre cas en BTP), et l'option de paiement de la TVA. Si votre fichier clients est à moitié rempli, c'est maintenant qu'il faut le compléter.
 
-**3. Vous devez cartographier vos flux de factures B2B.** Qui vous facture ? Qui vous commande ? Vos sous-traitants ? Vos fournisseurs ? Vos donneurs d'ordre généraux ? Chaque flux va être touché. La facturation BTP est rarement linéaire : acomptes, situations mensuelles, retenues de garantie, autoliquidation TVA pour la sous-traitance. Tous ces documents doivent passer dans le nouveau format, sans aucun raccourci possible.
+**3. Vous devez cartographier vos flux de factures B2B.** Qui vous facture ? Qui vous commande ? Vos sous-traitants ? Vos fournisseurs ? Vos donneurs d'ordre généraux ? Chaque flux va être touché. La facturation BTP est rarement linéaire : acomptes, situations mensuelles, retenues de garantie, [autoliquidation TVA pour la sous-traitance](/articles/sous-traitance-btp-paiement-direct/). Tous ces documents doivent passer dans le nouveau format, sans aucun raccourci possible.
 
 ## Attendre 2027 vous coûte cher dès maintenant
 
@@ -75,7 +75,7 @@ Deuxièmement, exportez votre fichier clients. Comptez le pourcentage de fiches 
 
 Troisièmement, listez vos 5 plus gros donneurs d'ordre B2B et demandez-leur s'ils sont eux-mêmes prêts. C'est aussi un bon moyen de signaler à vos clients que vous prenez le sujet au sérieux, et les bons clients apprécieront.
 
-Si après ces 3 étapes vous voyez que c'est plus compliqué que prévu, c'est le moment de vous faire accompagner. Pas dans 4 mois, en panique.
+Si après ces 3 étapes vous voyez que c'est plus compliqué que prévu, c'est le moment de [vous faire accompagner](/services/). Pas dans 4 mois, en panique.
 
 ---
 
