@@ -21,7 +21,7 @@
       "gsc": null,
       "serp": "Pas de guide dédié dans les résultats consultés : surtout des formations à n8n ou au no-code, des fiches France Travail et des pages RH (Zavvy, 360Learning) sur la formation des salariés. Certiforma est le seul à aborder le sujet côté organisme, avec un module de démarrage et une mise en garde sur les processus flous. Le parcours d'une session, de l'inscription à la facture, n'y est pas déroulé."
     },
-    "status": "validated",
+    "status": "published",
     "reason": "C'est le titre même de la page secteur, le lecteur a le problème que l'offre résout, et l'article peut porter le cas réel (sans chiffre) et donner à /secteurs/formation/ son premier lien.",
     "updatedAt": "2026-11-05"
   },
@@ -54,8 +54,8 @@
       },
       "serp": "Sur la formulation « logiciel », des listes génériques (Culture RH, Appvizer, logiciels.pro) citent les convocations comme une fonction parmi d'autres. Sur les rappels, on ne trouve que des notices d'outils publics ou de LMS, et la recherche sur la convocation côté Qualiopi n'a remonté aucune page dédiée. La Search Console montre aussi « peut-on automatiser les rappels de sessions de formation ? » : 1 impression, position 4."
     },
-    "status": "validated",
-    "reason": "Seules requêtes d'organismes de formation présentes dans la Search Console, sur une tâche que la page secteur cite telle quelle, avec une demande encore très mince (3 impressions en tout).",
+    "status": "rejected",
+    "reason": "Seules requêtes d'organismes de formation présentes dans la Search Console, sur une tâche que la page secteur cite telle quelle, avec une demande encore très mince (3 impressions en tout). Rejeté le 2026-11-05 : demande faible, traité comme une section du pilier formation-automatisation-gestion.",
     "updatedAt": "2026-11-05"
   },
   {
@@ -199,8 +199,8 @@
       "gsc": null,
       "serp": "Résultats hors sujet : catalogues de formations au pilotage par tableaux de bord (CNFCE, Lefebvre Dalloz, Orsys) et contenus sur le plan de formation en entreprise. Aucune page consultée ne dit quels chiffres suivre dans un organisme : sessions, dossiers en attente, paiements par financeur."
     },
-    "status": "validated",
-    "reason": "Une seule suggestion, donc une demande à confirmer, mais la place est libre et le sujet mène droit à l'application centrale.",
+    "status": "rejected",
+    "reason": "Une seule suggestion, donc une demande à confirmer, mais la place est libre et le sujet mène droit à l'application centrale. Rejeté le 2026-11-05 : demande faible, traité comme une section du pilier formation-automatisation-gestion.",
     "updatedAt": "2026-11-05"
   },
   {
