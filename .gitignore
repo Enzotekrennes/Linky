@@ -30,8 +30,10 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# IDE / local tooling
-/.claude/
+# IDE / local tooling (les agents et commandes SEO sont versionnés, le reste de .claude/ non)
+/.claude/*
+!/.claude/agents/
+!/.claude/skills/
 .vscode/
 .idea/
 
@@ -39,3 +41,7 @@ next-env.d.ts
 /data/
 node_modules/
 /services/lead-api/dist/
+
+# kit SEO : exports Search Console et caches de scripts, jamais versionnés (dépôt public)
+/seo/data/
+/seo/.cache/
