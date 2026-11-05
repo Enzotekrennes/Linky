@@ -1,5 +1,7 @@
 # Prompt réutilisable — Veille + nouvel article (Opus Advisor)
 
+> Remplacé par le kit SEO (`seo/README.md`, commande `/seo-article`), qui part de requêtes réelles plutôt que de l'actualité et couvre les trois secteurs. Ce prompt reste utilisable pour un article d'actualité ponctuel.
+
 Coller le bloc ci-dessous dans une session Claude Code ouverte sur le repo, environ une fois par semaine.
 Tout est volontairement auto-suffisant : un agent neuf démarre sans mémoire de l'historique.
 
@@ -68,7 +70,7 @@ CHARTE & TON (à respecter strictement) :
 ÉTAPE 6 — Git (PR, sans merge)
 - git checkout -b content/article-<slug>
 - git add public/articles/<slug>.md lib/articles.json
-- git commit -m "content: <titre court>" (ajoute le trailer Co-Authored-By: Claude <noreply@anthropic.com>)
+- git commit -m "content: <titre court>" (message simple, sans trailer)
 - git push -u origin content/article-<slug>
   (si le push renvoie une erreur 403 : `git -c credential.helper= -c 'credential.helper=!gh auth git-credential' push -u origin content/article-<slug>`)
 - gh pr create --base main --head content/article-<slug> --title "content: <titre court>" --body "<résumé + angle + sources>"

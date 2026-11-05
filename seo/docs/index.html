@@ -1,0 +1,184 @@
+<!doctype html>
+<!--
+  Bilingual (FR/EN) documentation of the opusadvisor.fr SEO kit.
+  Self-contained page: open it directly in a browser, no build step.
+  Language toggle: elements carry data-l="fr" or data-l="en"; the root data-lang attribute decides which ones show.
+-->
+<html lang="fr" data-lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Kit SEO Opus Advisor</title>
+<style>
+  :root {
+    --navy: #1a2332;
+    --navy-2: #243044;
+    --gold: #c9a84c;
+    --cream: #f7f3ea;
+    --ink: #1a2332;
+    --muted: #5b6475;
+    --line: #e3dccb;
+    --card: #ffffff;
+  }
+  * { box-sizing: border-box; }
+  html[data-lang="fr"] [data-l="en"], html[data-lang="en"] [data-l="fr"] { display: none !important; }
+  body {
+    margin: 0;
+    background: var(--cream);
+    color: var(--ink);
+    font: 16px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  }
+  header {
+    background: var(--navy);
+    color: var(--cream);
+    padding: 40px 16px 32px;
+  }
+  .wrap { max-width: 920px; margin: 0 auto; padding: 0 16px; }
+  header .wrap { padding: 0; }
+  .top { display: flex; justify-content: space-between; align-items: center; gap: 16px; flex-wrap: wrap; }
+  .brand { font-weight: 800; letter-spacing: .02em; }
+  .brand span { color: var(--gold); }
+  .lang button {
+    background: transparent; color: var(--cream); border: 1px solid var(--navy-2);
+    padding: 6px 12px; font: inherit; font-size: 14px; cursor: pointer; border-radius: 4px;
+  }
+  .lang button[aria-pressed="true"] { border-color: var(--gold); color: var(--gold); }
+  h1 { font-size: clamp(28px, 5vw, 40px); line-height: 1.15; margin: 28px 0 12px; }
+  header p { color: #c8cdd6; max-width: 680px; margin: 0; }
+  main { padding: 32px 0 64px; }
+  h2 { font-size: 22px; margin: 44px 0 12px; padding-top: 12px; border-top: 2px solid var(--gold); display: inline-block; }
+  h3 { font-size: 17px; margin: 24px 0 6px; }
+  p, li { color: var(--ink); }
+  .muted { color: var(--muted); }
+  code, pre { font-family: ui-monospace, SFMono-Regular, Consolas, monospace; font-size: 14px; }
+  code { background: #ede6d6; padding: 1px 5px; border-radius: 3px; }
+  pre { background: var(--navy); color: var(--cream); padding: 16px; overflow-x: auto; border-radius: 6px; }
+  pre code { background: none; padding: 0; }
+  .flow { display: grid; grid-template-columns: repeat(auto-fit, minmax(130px, 1fr)); gap: 10px; margin: 20px 0; }
+  .step { background: var(--card); border: 1px solid var(--line); border-top: 3px solid var(--gold); padding: 12px; border-radius: 4px; }
+  .step b { display: block; font-size: 14px; }
+  .step small { color: var(--muted); font-size: 13px; }
+  .gate { border-top-color: #b4432f; }
+  table { width: 100%; border-collapse: collapse; background: var(--card); border: 1px solid var(--line); font-size: 15px; }
+  th, td { text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { background: #efe8d8; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; }
+  .table { overflow-x: auto; }
+  .note { background: var(--card); border-left: 3px solid var(--gold); padding: 12px 16px; margin: 16px 0; }
+  footer { color: var(--muted); font-size: 14px; padding-bottom: 40px; }
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <div class="brand">OPUS <span>ADVISOR</span> · SEO</div>
+      <div class="lang" role="group" aria-label="Langue / Language">
+        <button type="button" data-set="fr" aria-pressed="true">FR</button>
+        <button type="button" data-set="en" aria-pressed="false">EN</button>
+      </div>
+    </div>
+    <h1>
+      <span data-l="fr">Kit d'agents SEO</span>
+      <span data-l="en">SEO agent kit</span>
+    </h1>
+    <p>
+      <span data-l="fr">Six agents et trois commandes pour tenir une méthode SEO complète sur opusadvisor.fr : requêtes réelles, analyse de ce qui classe, rédaction, contrôle indépendant, maillage, puis amélioration à partir de la Search Console. Rien ne part en ligne sans validation.</span>
+      <span data-l="en">Six agents and three commands that run a complete SEO method on opusadvisor.fr: real queries, analysis of what already ranks, writing, independent review, internal linking, then improvement from Search Console data. Nothing goes live without approval.</span>
+    </p>
+  </div>
+</header>
+
+<main class="wrap">
+  <h2><span data-l="fr">Le circuit d'un article</span><span data-l="en">How an article is made</span></h2>
+  <div class="flow">
+    <div class="step"><b>seo-strategist</b><small data-l="fr">requêtes réelles → backlog</small><small data-l="en">real queries → backlog</small></div>
+    <div class="step"><b data-l="fr">Validation</b><b data-l="en">Approval</b><small data-l="fr">tu choisis les sujets</small><small data-l="en">you pick the topics</small></div>
+    <div class="step"><b>seo-serp-analyst</b><small data-l="fr">ce qui classe → brief</small><small data-l="en">what ranks → brief</small></div>
+    <div class="step"><b>seo-writer</b><small data-l="fr">article au format du site</small><small data-l="en">article in site format</small></div>
+    <div class="step gate"><b>seo-editor</b><small data-l="fr">PASS ≥ 15/20, sinon retour</small><small data-l="en">PASS ≥ 15/20, else back</small></div>
+    <div class="step"><b>seo-linker</b><small data-l="fr">liens entrants et sortants</small><small data-l="en">inbound and outbound links</small></div>
+    <div class="step"><b data-l="fr">Pull request</b><b data-l="en">Pull request</b><small data-l="fr">tu relis, tu merges</small><small data-l="en">you review, you merge</small></div>
+  </div>
+  <p class="muted">
+    <span data-l="fr">L'éditeur ne voit pas la rédaction et ne peut pas modifier l'article : il juge, vérifie chaque source et liste les corrections. Deux allers-retours au maximum, puis le sujet est abandonné.</span>
+    <span data-l="en">The editor never sees the writing session and cannot edit the article: it grades, checks every source and lists fixes. Two rounds at most, then the topic is dropped.</span>
+  </p>
+
+  <h2><span data-l="fr">Commandes</span><span data-l="en">Commands</span></h2>
+  <p><span data-l="fr">Dans Claude Code, depuis la racine du dépôt :</span><span data-l="en">In Claude Code, from the repository root:</span></p>
+  <pre><code>/seo-plan [formation | immobilier | btp | thème]
+/seo-article [id du backlog]
+/seo-optimize [maillage | gsc | tout]</code></pre>
+  <div class="table"><table>
+    <thead><tr><th><span data-l="fr">Commande</span><span data-l="en">Command</span></th><th><span data-l="fr">Ce qu'elle fait</span><span data-l="en">What it does</span></th><th><span data-l="fr">Rythme</span><span data-l="en">Cadence</span></th></tr></thead>
+    <tbody>
+      <tr><td><code>/seo-plan</code></td><td><span data-l="fr">Recherche de mots-clés sur un secteur, ajout au backlog, validation des sujets par question à choix multiple.</span><span data-l="en">Keyword research for a sector, backlog update, topic approval through a multiple-choice question.</span></td><td><span data-l="fr">1 fois par mois</span><span data-l="en">Monthly</span></td></tr>
+      <tr><td><code>/seo-article</code></td><td><span data-l="fr">Un sujet validé jusqu'à la pull request : brief, rédaction, contrôle, maillage, build.</span><span data-l="en">One approved topic all the way to a pull request: brief, writing, review, linking, build.</span></td><td><span data-l="fr">1 à 2 par semaine</span><span data-l="en">1 to 2 a week</span></td></tr>
+      <tr><td><code>/seo-optimize</code></td><td><span data-l="fr">Requêtes à portée, pages peu cliquées, contenus vieillis, maillage. Tu choisis ce qui est appliqué.</span><span data-l="en">Striking-distance queries, low-CTR pages, stale content, internal links. You choose what gets applied.</span></td><td><span data-l="fr">1 fois par mois, après l'export</span><span data-l="en">Monthly, after the export</span></td></tr>
+    </tbody>
+  </table></div>
+
+  <h2><span data-l="fr">Les fichiers</span><span data-l="en">Files</span></h2>
+  <div class="table"><table>
+    <thead><tr><th><span data-l="fr">Fichier</span><span data-l="en">File</span></th><th><span data-l="fr">Rôle</span><span data-l="en">Purpose</span></th></tr></thead>
+    <tbody>
+      <tr><td><code>seo/site-profile.md</code></td><td><span data-l="fr">Source de vérité : offre, trois secteurs, preuves publiables, interdits. À mettre à jour quand l'offre change.</span><span data-l="en">Source of truth: offer, three sectors, publishable proof, hard rules. Update it when the offer changes.</span></td></tr>
+      <tr><td><code>seo/style-guide.md</code></td><td><span data-l="fr">Format des articles, ton, interdits, règles de maillage.</span><span data-l="en">Article format, tone, banned wording, linking rules.</span></td></tr>
+      <tr><td><code>seo/quality-gate.md</code></td><td><span data-l="fr">Grille de l'éditeur et seuil de publication.</span><span data-l="en">Editor rubric and publication threshold.</span></td></tr>
+      <tr><td><code>seo/backlog.json</code></td><td><span data-l="fr">Sujets avec leurs preuves et leur statut : idea, validated, brief, published, rejected.</span><span data-l="en">Topics with their evidence and status: idea, validated, brief, published, rejected.</span></td></tr>
+      <tr><td><code>seo/briefs/</code></td><td><span data-l="fr">Briefs d'articles et plans d'optimisation.</span><span data-l="en">Article briefs and optimisation plans.</span></td></tr>
+      <tr><td><code>.claude/agents/seo-*.md</code></td><td><span data-l="fr">Les six agents.</span><span data-l="en">The six agents.</span></td></tr>
+      <tr><td><code>.claude/skills/seo-*/</code></td><td><span data-l="fr">Les trois commandes.</span><span data-l="en">The three commands.</span></td></tr>
+    </tbody>
+  </table></div>
+
+  <h2><span data-l="fr">Scripts</span><span data-l="en">Scripts</span></h2>
+  <pre><code>node seo/scripts/inventory.mjs              # pages, keywords, internal link graph
+node seo/scripts/check-article.mjs &lt;slug&gt;   # mechanical check (--all for the whole blog)
+node seo/scripts/suggest.mjs "&lt;topic&gt;"      # Google autocomplete expansion
+node seo/scripts/gsc.mjs                    # report on the latest Search Console export</code></pre>
+  <p class="muted">
+    <span data-l="fr">Les scripts n'inventent rien : sans réseau, l'autocomplétion s'arrête et le dit. Les « hits » comptent les expansions qui renvoient une suggestion, ce n'est pas un volume de recherche.</span>
+    <span data-l="en">The scripts never make data up: without network access the autocomplete script stops and says so. "Hits" count how many expansions returned a suggestion; they are not search volumes.</span>
+  </p>
+
+  <h2>Search Console</h2>
+  <p>
+    <span data-l="fr">Une fois par mois : Performances, Résultats de recherche, 3 derniers mois, Exporter, CSV. Décompresser dans <code>seo/data/gsc/AAAA-MM-JJ/</code>. Les en-têtes français et anglais sont reconnus.</span>
+    <span data-l="en">Once a month: Performance, Search results, last 3 months, Export, CSV. Unzip into <code>seo/data/gsc/YYYY-MM-DD/</code>. French and English headers are both supported.</span>
+  </p>
+  <div class="note">
+    <span data-l="fr">Le dépôt est public. <code>seo/data/</code> et <code>seo/.cache/</code> sont ignorés par git, donc tes données Search Console restent sur ta machine. Le backlog et les briefs sont versionnés et donc lisibles par tous.</span>
+    <span data-l="en">The repository is public. <code>seo/data/</code> and <code>seo/.cache/</code> are git-ignored, so Search Console data stays on your machine. The backlog and briefs are committed and therefore readable by anyone.</span>
+  </div>
+
+  <h2><span data-l="fr">Règles qui ne bougent pas</span><span data-l="en">Rules that never change</span></h2>
+  <ul>
+    <li><span data-l="fr">Aucun chiffre, client, témoignage ou étude sans source réelle vérifiée par l'éditeur.</span><span data-l="en">No figure, client, testimonial or study without a real source checked by the editor.</span></li>
+    <li><span data-l="fr">Un article par intention de recherche. Un sujet déjà couvert enrichit l'article existant.</span><span data-l="en">One article per search intent. A covered topic enriches the existing article.</span></li>
+    <li><span data-l="fr">Pas de publication sans pull request relue, ni de merge automatique.</span><span data-l="en">No publication without a reviewed pull request, and no automatic merge.</span></li>
+    <li><span data-l="fr">Commits et pull requests sans trailer ni mention de l'outil qui a produit le contenu.</span><span data-l="en">Commits and pull requests carry no trailer and no mention of the tool that produced the content.</span></li>
+    <li><span data-l="fr">Ne pas publier est un résultat valide.</span><span data-l="en">Not publishing is a valid outcome.</span></li>
+  </ul>
+</main>
+
+<footer class="wrap">opusadvisor.fr</footer>
+
+<script>
+  // Language toggle, remembered per browser when storage is available.
+  (function () {
+    var root = document.documentElement;
+    var buttons = document.querySelectorAll('[data-set]');
+    /** Apply a language to the page and update the toggle state. */
+    function setLang(lang) {
+      root.setAttribute('data-lang', lang);
+      root.setAttribute('lang', lang);
+      buttons.forEach(function (b) { b.setAttribute('aria-pressed', String(b.dataset.set === lang)); });
+      try { localStorage.setItem('seo-doc-lang', lang); } catch (e) {}
+    }
+    buttons.forEach(function (b) { b.addEventListener('click', function () { setLang(b.dataset.set); }); });
+    try { var saved = localStorage.getItem('seo-doc-lang'); if (saved) setLang(saved); } catch (e) {}
+  })();
+</script>
+</body>
+</html>
