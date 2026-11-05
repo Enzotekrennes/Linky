@@ -24,7 +24,7 @@ faq:
 
 ## Où partent ces 13 heures
 
-En ordre de grandeur, pour une boîte du second œuvre, les devis prennent 3 à 4 heures. Les factures et les relances, 2 à 3 heures. La compta et les déclarations, encore 2 à 3 heures. Le reste se perd dans la gestion courante : un fournisseur à rappeler, un dossier d'aide à compléter, un planning à refaire parce qu'un client a décalé.
+En ordre de grandeur, pour une boîte du second œuvre, les devis prennent 3 à 4 heures. Les factures et les relances, 2 à 3 heures. La compta et les déclarations, encore 2 à 3 heures. Le reste se perd dans la gestion courante : un fournisseur à rappeler, [un dossier d'aide à compléter](/articles/maprimerenov-2026/), un planning à refaire parce qu'un client a décalé.
 
 La CAPEB chiffrait déjà cette charge à 15 ou 20 % du temps de travail total. L'étude de 2026 confirme la tendance et l'aggrave. Et ce sont rarement des heures de bureau bien rangées : c'est le devis fait à 22 h, la relance repoussée au dimanche, la déclaration bouclée la veille de l'échéance.
 
@@ -46,12 +46,12 @@ Le problème n'est pas le manque d'outil. C'est que vos outils actuels ne se par
 
 On ne vise pas zéro heure d'administratif, ce serait mentir. On vise la moitié. Voici ce qui rend le plus de temps, dans l'ordre.
 
-- **Les relances qui partent toutes seules.** Une facture émise déclenche une relance à J+30 sans que vous y pensiez. Fini les deux heures du dimanche.
+- **Les relances qui partent toutes seules.** [Une facture émise déclenche une relance](/articles/relances-automatiques-impayes-btp/) à J+30 sans que vous y pensiez. Fini les deux heures du dimanche.
 - **Les justificatifs classés à la source.** La photo d'un ticket ou la pièce d'un dossier atterrit dans le bon dossier au moment où elle arrive, pas trois mois plus tard quand le comptable réclame.
 - **Les devis types prêts à dégainer.** Un modèle calé sur vos prix et vos mentions obligatoires, au lieu de repartir d'une page blanche à chaque chantier.
 - **Le lien direct avec le comptable.** Un export propre remplace la ressaisie mensuelle.
 
-Ce travail tient en 3 à 5 semaines. L'objectif : faire tomber l'administratif de 13 heures à 6 ou 7 heures par semaine. C'est l'engagement Opus : 10 heures par semaine rendues à votre entreprise dès le deuxième mois.
+Ce travail tient en 3 à 5 semaines. L'objectif : faire tomber l'administratif de 13 heures à 6 ou 7 heures par semaine. C'est l'engagement Opus : [10 heures par semaine rendues à votre entreprise](/secteurs/btp/) dès le deuxième mois.
 
 ## Par où commencer
 

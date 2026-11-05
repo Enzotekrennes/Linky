@@ -31,7 +31,7 @@ Trois fuites reviennent sur presque tous les chantiers.
 
 **Les petites dépenses qu'on oublie de compter.** Nettoyage de fin de chantier, EPI, petites fournitures, allers-retours au dépôt. Prises une par une, elles semblent négligeables. Cumulées, elles pèsent 5 à 15 % du déboursé sec. Sur un chantier chiffré serré, ça suffit à effacer la marge.
 
-**Les heures improductives.** Un compagnon n'est pas productif 100 % de son temps payé : en moyenne, 70 à 75 % seulement. Le reste part en déplacements, attente de matériel, reprises, aléas. Deux heures improductives par jour sur une équipe de trois, ça représente environ 40 000 € sur l'année. Si vous ne les suivez pas, vous ne les voyez pas.
+**Les heures improductives.** Un compagnon n'est pas [productif 100 % de son temps payé](/outils/calcul-cout-horaire-main-doeuvre/) : en moyenne, 70 à 75 % seulement. Le reste part en déplacements, attente de matériel, reprises, aléas. Deux heures improductives par jour sur une équipe de trois, ça représente environ 40 000 € sur l'année. Si vous ne les suivez pas, vous ne les voyez pas.
 
 **Les avenants jamais facturés.** Le client demande un petit truc en plus, vous le faites pour ne pas bloquer le chantier, et ça ne ressort nulle part. Du travail livré, jamais payé.
 
@@ -45,7 +45,7 @@ Rien de tout ça ne se parle. Donc personne ne peut mettre côte à côte « ce 
 
 Vous n'avez pas besoin d'un contrôleur de gestion. Vous avez besoin que trois choses remontent automatiquement au bon endroit, chantier par chantier :
 
-- **Les heures réelles**, pointées simplement par les équipes, comparées aux heures vendues.
+- **Les heures réelles**, [pointées simplement par les équipes](/articles/penurie-main-doeuvre-organisation/), comparées aux heures vendues.
 - **Les achats**, rattachés au bon chantier dès le ticket, pas ressaisis en fin de mois.
 - **Les avenants**, tracés au moment où ils sont décidés, pour être facturés.
 
@@ -55,7 +55,7 @@ Avec ça, à la fin de chaque chantier, vous avez un chiffre : marge prévue con
 
 Prenez votre dernier chantier terminé. Essayez de reconstituer, même à la louche : heures réellement passées, total des achats, avenants livrés. Comparez au devis. L'écart va vous surprendre, et il vous dira dans quel sens vous vous trompez sur vos prix. Pour aller vite, notre [calculateur de marge chantier](/outils/calcul-marge-chantier/) fait le calcul à votre place.
 
-C'est exactement ce qu'on met en place au pré-audit : un suivi de marge chantier par chantier, à partir de vos données réelles, sans que vous ayez à ressaisir quoi que ce soit. On ne devine plus si un chantier est rentable. On le sait.
+C'est exactement ce qu'on met en place au pré-audit : [un suivi de marge chantier par chantier](/secteurs/btp/), à partir de vos données réelles, sans que vous ayez à ressaisir quoi que ce soit. On ne devine plus si un chantier est rentable. On le sait.
 
 ---
 

@@ -146,7 +146,7 @@ Le plus dur n'est pas d'écrire ces messages, c'est de les envoyer à la bonne d
 
 ## Comment l'automatiser sur vos outils actuels
 
-Vous n'avez pas besoin de changer de logiciel BTP. Dans la grande majorité des cas, on garde Batappli, Obat, Tolteck ou EBP, et on ajoute la couche relance autour.
+Vous n'avez pas besoin de [changer de logiciel BTP](/articles/organisation-avant-developpement/). Dans la grande majorité des cas, on garde Batappli, Obat, Tolteck ou EBP, et [on ajoute la couche relance autour](/secteurs/btp/).
 
 **Si votre logiciel BTP exporte les factures vers un Google Sheet ou Airtable** (Batappli, Obat, Tolteck le font tous via export quotidien ou API), Make ou n8n lit la liste des factures non payées chaque matin, calcule l'écart entre la date d'échéance et aujourd'hui, et déclenche le bon mail au bon moment. Coût : 30 à 60 €/mois selon le volume.
 
@@ -154,7 +154,7 @@ Vous n'avez pas besoin de changer de logiciel BTP. Dans la grande majorité des 
 
 **Si vous travaillez en cabinet partagé avec votre expert-comptable**, demandez-lui s'il a accès à Pennylane Cabinet, Tiime Apps ou Cegid Loop. Beaucoup d'experts-comptables peuvent activer les relances automatiques de leur côté, à condition que les factures émises soient remontées rapidement, pas une fois par mois.
 
-Le point sensible n'est jamais l'outil, c'est la donnée d'entrée. Pour qu'une relance automatique parte au bon moment, il faut que la date de paiement réel soit synchronisée chaque jour entre votre banque, votre logiciel BTP et votre comptabilité. Sans ça, vous relancez un client qui a déjà payé. Une fois suffit : vous perdez la confiance dans le système, et plus personne ne l'utilise.
+Le point sensible n'est jamais l'outil, c'est [la donnée d'entrée](/articles/ia-btp-donnees-propres/). Pour qu'une relance automatique parte au bon moment, il faut que la date de paiement réel soit synchronisée chaque jour entre votre banque, votre logiciel BTP et votre comptabilité. Sans ça, vous relancez un client qui a déjà payé. Une fois suffit : vous perdez la confiance dans le système, et plus personne ne l'utilise.
 
 ## Deux cas types
 

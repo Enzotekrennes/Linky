@@ -15,7 +15,7 @@ ctaMid:
 
 *Catégorie : Réglementation BTP — Lecture : 6 minutes — Auteur : Enzo Monnier, Opus Advisor*
 
-Vous sous-traitez pour un confrère ou un gros donneur d'ordre, le chantier est livré, et la facture reste impayée pendant des semaines. Selon la Banque de France, 47 % des factures du BTP sont réglées avec plus de 30 jours de retard. Ce que beaucoup de sous-traitants ignorent : une loi de 1975 vous donne un recours direct contre le client final. Encore faut-il que votre dossier soit cadré dès le départ.
+Vous sous-traitez pour un confrère ou un gros donneur d'ordre, le chantier est livré, et la facture reste impayée pendant des semaines. Selon la Banque de France, 47 % des factures du BTP sont [réglées avec plus de 30 jours de retard](/outils/calcul-penalites-de-retard/). Ce que beaucoup de sous-traitants ignorent : une loi de 1975 vous donne un recours direct contre le client final. Encore faut-il que votre dossier soit cadré dès le départ.
 
 ## Le droit au paiement direct, l'arme que personne n'utilise
 
@@ -35,7 +35,7 @@ L'erreur courante : facturer avec TVA par habitude. Résultat, la facture est re
 
 ## Ce que la facturation électronique change dès septembre
 
-À partir du 1er septembre 2026, tout le monde doit pouvoir recevoir des factures électroniques. Pour la sous-traitance, ça veut dire que la mention d'autoliquidation, les références du contrat et l'agrément ne seront plus du texte libre au fond d'un PDF : ce seront des données structurées que la plateforme va contrôler.
+À partir du 1er septembre 2026, tout le monde doit pouvoir [recevoir des factures électroniques](/articles/facturation-electronique-2026/). Pour la sous-traitance, ça veut dire que la mention d'autoliquidation, les références du contrat et l'agrément ne seront plus du texte libre au fond d'un PDF : ce seront des données structurées que la plateforme va contrôler.
 
 Traduit en clair : une sous-traitance gérée à l'arrache passera de plus en plus mal dans le circuit. Les boîtes qui ont leurs contrats, leurs mentions et leur process carrés vont fluidifier ; les autres vont multiplier les rejets.
 
@@ -56,7 +56,7 @@ Ce cadrage évite les rejets de factures et raccourcit les délais de paiement :
 
 Prenez vos trois derniers chantiers en sous-traitance. Pour chacun, vérifiez deux choses : le contrat a-t-il été agréé par le maître d'ouvrage, et les factures portaient-elles bien la mention d'autoliquidation ? Si la réponse est non sur l'un des deux, vous travaillez sans filet.
 
-Mettre en place un contrat type, les bonnes mentions et un suivi des échéances, c'est quelques jours de cadrage. C'est le genre de point qu'on regarde au pré-audit : on part de vos chantiers réels, on repère où vous perdez du temps et de la trésorerie, et on remet le circuit d'aplomb.
+Mettre en place un contrat type, les bonnes mentions et un suivi des échéances, c'est quelques jours de cadrage. C'est le genre de point qu'on regarde au pré-audit : on part de vos chantiers réels, on repère [où vous perdez du temps et de la trésorerie](/secteurs/btp/), et on remet le circuit d'aplomb.
 
 Sur un chantier en sous-traitance, ce n'est pas le travail qui vous met en danger. C'est le dossier mal ficelé.
 

@@ -11,7 +11,7 @@ essentiel:
 
 *Catégorie : Outils & organisation BTP — Lecture : 7 minutes — Auteur : Enzo Monnier, Opus Advisor*
 
-« Il nous faudrait une app pour les chefs de chantier. » La phrase revient souvent chez les patrons du second œuvre. Parfois la demande est solide. Le plus souvent, elle remplace une réflexion sur ce qui coince dans la chaîne d'information. Glide, Softr ou Bubble règlent des problèmes très concrets pour une boîte de second œuvre, dans des cas précis. On va voir trois situations où ça marche, trois situations où c'est de l'argent jeté, et combien ça coûte vraiment.
+« Il nous faudrait une app pour les chefs de chantier. » La phrase revient souvent chez les patrons du second œuvre. Parfois la demande est solide. Le plus souvent, elle remplace une réflexion sur [ce qui coince dans la chaîne d'information](/articles/organisation-avant-developpement/). Glide, Softr ou Bubble règlent des problèmes très concrets pour une boîte de second œuvre, dans des cas précis. On va voir trois situations où ça marche, trois situations où c'est de l'argent jeté, et combien ça coûte vraiment.
 
 ---
 
@@ -27,7 +27,7 @@ Avant de penser à une app, faites quelques vérifications de base.
 
 **Votre logiciel BTP a déjà une app mobile.** Batappli, Obat, Tolteck et EBP intègrent tous une app terrain pour les chefs de chantier. Suivi de chantier, photos, comptes-rendus, signatures clients. Si vous payez un de ces logiciels, l'app existe peut-être déjà. Elle est juste désactivée ou jamais déployée auprès de l'équipe.
 
-**Un Make ou un Notion bien câblé règle 70 % des frictions.** Photos WhatsApp qui finissent automatiquement dans le bon dossier Drive, formulaire Notion accessible depuis le téléphone des chefs de chantier qui crée une fiche chantier en 30 secondes, alerte automatique au bureau quand un bon est soumis. Coût : 30 à 100 €/mois et une à deux semaines de mise en place. Pas d'app à développer, pas d'app à maintenir.
+**[Un Make ou un Notion bien câblé](/articles/automatiser-sans-erp/) règle 70 % des frictions.** Photos WhatsApp qui finissent automatiquement dans le bon dossier Drive, formulaire Notion accessible depuis le téléphone des chefs de chantier qui crée une fiche chantier en 30 secondes, alerte automatique au bureau quand un bon est soumis. Coût : 30 à 100 €/mois et une à deux semaines de mise en place. Pas d'app à développer, pas d'app à maintenir.
 
 **Vos équipes terrain ont déjà 8 apps qu'elles n'ouvrent jamais.** Batappli mobile, WhatsApp, le pointage, l'app du fabricant de chaudières, l'app fournisseur sanitaire, le SMS d'agence intérim, le tableau de bord du véhicule. Une 9e app pour faire mieux que les 8 premières finit rarement utilisée. Plus la pile d'apps grossit, moins le terrain en ouvre une seule.
 
@@ -55,7 +55,7 @@ Le critère qui compte n'est pas l'outil lui-même. C'est plutôt ceci :
 
 - **Qui va l'utiliser ?** Chefs de chantier sur smartphone : Glide. Clients sur ordinateur : Softr. Mix terrain et bureau avec logique métier complexe : Bubble.
 - **À quelle fréquence ?** Si l'app est ouverte 2 fois par mois, n'importe quelle option suffit. Si elle est utilisée 20 fois par jour, la rapidité et le mode hors ligne deviennent le critère numéro un.
-- **Connectée à quoi ?** Tout no-code se branche sur Make ou n8n. C'est ce branchement qui détermine si l'app reste un gadget ou devient une pièce du système qui tourne.
+- **Connectée à quoi ?** Tout no-code se branche sur Make ou n8n. C'est ce branchement qui détermine si l'app reste un gadget ou devient [une pièce du système qui tourne](/secteurs/btp/).
 
 En pratique, l'outil se choisit projet par projet : Glide pour la plupart des outils terrain, Softr pour les portails clients, Bubble quand il faut vraiment du sur-mesure.
 

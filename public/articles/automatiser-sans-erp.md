@@ -19,7 +19,7 @@ Vous êtes passé de 8 à 15 salariés. Votre comptable vous dit qu'il faut "un 
 
 ## La tentation du logiciel qui fait tout
 
-Le scénario revient toujours. Une boîte d'élec ou de plomberie qui passe le cap des 15 salariés. Le patron sent que ça déborde : devis qui traînent, situations de travaux refaites à la main, photos de chantier perdues dans WhatsApp, comptable qui ressaisit tout en fin de mois. La conclusion paraît évidente, "il nous faut un logiciel qui fait tout, qu'on arrête avec les bouts de ficelle".
+Le scénario revient toujours. Une boîte d'élec ou de plomberie qui passe le cap des 15 salariés. Le patron sent que ça déborde : devis qui traînent, [situations de travaux refaites à la main](/outils/calcul-situation-de-travaux/), photos de chantier perdues dans WhatsApp, comptable qui ressaisit tout en fin de mois. La conclusion paraît évidente, "il nous faut un logiciel qui fait tout, qu'on arrête avec les bouts de ficelle".
 
 Le commercial du gros éditeur entre en jeu. Démo bien rodée, modules qui s'enchaînent, gestion des chantiers connectée à la facturation, à la paie, au planning, au stock. Devis : 30 000 à 50 000 € d'installation, plus 8 000 à 15 000 € par an de licences pour 15 utilisateurs.
 
@@ -29,7 +29,7 @@ C'est tentant, et c'est rassurant. Sauf que dans presque tous les cas, ce n'est 
 
 Quatre raisons reviennent en boucle dans les boîtes BTP qui ont basculé sur ces logiciels.
 
-**Le logiciel ne colle pas à la réalité du chantier.** La facturation BTP suit rarement une ligne droite. Vous gérez des acomptes, des situations mensuelles, des retenues de garantie de 5 %, de l'autoliquidation TVA pour la sous-traitance, des avenants, des moins-values. Un logiciel généraliste plié à votre métier coûte 6 mois de paramétrage. Le vrai logiciel BTP métier, vous l'avez peut-être déjà.
+**Le logiciel ne colle pas à la réalité du chantier.** La facturation BTP suit rarement une ligne droite. Vous gérez des acomptes, des situations mensuelles, des [retenues de garantie de 5 %](/outils/calcul-retenue-de-garantie/), de l'autoliquidation TVA pour la sous-traitance, des avenants, des moins-values. Un logiciel généraliste plié à votre métier coûte 6 mois de paramétrage. Le vrai logiciel BTP métier, vous l'avez peut-être déjà.
 
 **L'équipe terrain ne l'utilise pas.** Vos chefs de chantier ouvrent WhatsApp 80 fois par jour. Le grand logiciel sur tablette qui demande un login, 4 clics et une connexion correcte, ils l'ouvrent 3 fois la première semaine puis plus jamais. Au final, le bureau passe son temps à ressaisir ce que les chefs de chantier disent par messagerie.
 
@@ -39,7 +39,7 @@ Quatre raisons reviennent en boucle dans les boîtes BTP qui ont basculé sur ce
 
 ## L'alternative : 3 outils qui se parlent, pour 5 fois moins cher
 
-Pour une boîte BTP de 8 à 60+ collaborateurs, le trio qui marche tient en trois piliers.
+Pour [une boîte BTP de 8 à 60+ collaborateurs](/secteurs/btp/), le trio qui marche tient en trois piliers.
 
 **Le pilier métier : votre logiciel BTP, mieux exploité.** Vous l'avez probablement déjà. Le baromètre France Num 2025 confirme que 76 % des TPE-PME du bâtiment sont équipées d'un logiciel de facturation. Batappli, Obat, Tolteck ou EBP Bâtiment couvrent 80 à 90 % du besoin courant en second œuvre : devis chiffrés, situations de travaux, retenues de garantie, factures aux normes, suivi de chantier basique. Tarifs publics 2026 vérifiés :
 

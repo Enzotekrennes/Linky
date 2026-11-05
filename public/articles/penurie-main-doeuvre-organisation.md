@@ -58,11 +58,11 @@ Aucune de ces briques n'est un gadget. Chacune retire une source de friction quo
 
 ## Par où commencer
 
-Avant de remettre une annonce ou de surenchérir sur les salaires, posez-vous une question simple : sur vos six derniers départs, combien tenaient vraiment à l'argent, et combien au ras-le-bol ?
+Avant de remettre une annonce ou de [surenchérir sur les salaires](/outils/calcul-cout-horaire-main-doeuvre/), posez-vous une question simple : sur vos six derniers départs, combien tenaient vraiment à l'argent, et combien au ras-le-bol ?
 
-Si la deuxième colonne pèse plus lourd que la première, regardez du côté de votre organisation plutôt que de votre grille de salaire. Contrairement au marché de l'emploi, sur lequel vous ne pouvez pas grand-chose, votre organisation, vous pouvez la reprendre en main.
+Si la deuxième colonne pèse plus lourd que la première, regardez du côté de votre organisation plutôt que de votre grille de salaire. Contrairement au marché de l'emploi, sur lequel vous ne pouvez pas grand-chose, [votre organisation, vous pouvez la reprendre en main](/secteurs/btp/).
 
-C'est exactement ce qu'on regarde au pré-audit : on part de vos chantiers réels, on repère les frictions qui usent vos équipes, et on chiffre ce qu'un système propre vous ferait gagner, en temps comme en gars qui restent.
+C'est exactement ce qu'on regarde au pré-audit : on part de vos chantiers réels, on repère les frictions qui usent vos équipes, et [on chiffre ce qu'un système propre vous ferait gagner](/services/), en temps comme en gars qui restent.
 
 ---
 
