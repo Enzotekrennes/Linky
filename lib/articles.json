@@ -1,5 +1,24 @@
 [
     {
+        "id": 20,
+        "slug": "automatisation-organisme-de-formation",
+        "title": "Automatisation d'un organisme de formation : par où commencer",
+        "description": "Automatisation d'un organisme de formation : ce que fait déjà votre logiciel, ce qui reste à la main et par quoi commencer, session par session.",
+        "imageSrc": "/images/Logo_1200x630.png",
+        "icon": "workflow",
+        "publishedAt": "2026-11-05",
+        "category": "Méthode",
+        "seoTitle": "Automatisation organisme de formation : par où commencer",
+        "related": [
+            "fin-subrogation-opco-organisme-formation",
+            "facturation-electronique-2026",
+            "organisation-avant-developpement"
+        ],
+        "tools": [
+            "calcul-penalites-de-retard"
+        ]
+    },
+    {
         "id": 19,
         "slug": "fin-subrogation-opco-organisme-formation",
         "title": "Fin de la subrogation OPCO : qui facturer depuis octobre 2026",
@@ -11,7 +30,7 @@
         "seoTitle": "Fin subrogation OPCO : qui facturer depuis octobre 2026",
         "related": [
             "relances-automatiques-impayes-btp",
-            "facturation-electronique-2026",
+            "automatisation-organisme-de-formation",
             "organisation-avant-developpement"
         ],
         "tools": [

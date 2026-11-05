@@ -104,13 +104,13 @@ Un outil qui rattache le payeur à la session se trompera ici. Le mode de paieme
 
 Situation type : une convention signée avant la bascule annonce un « règlement par l'OPCO », le dossier part sans subrogation, et votre client découvre qu'il doit payer.
 
-Entre professionnels, l'article L. 441-10 du Code de commerce prévoit un paiement 30 jours après l'exécution de la prestation si rien n'est convenu, et 60 jours au plus après l'émission de la facture, ou 45 jours fin de mois si le contrat le prévoit expressément. Les pénalités de retard sont exigibles sans rappel, et l'indemnité forfaitaire de recouvrement, fixée à 40 € par [l'article D. 441-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043197457), est due de plein droit. [L'article L. 441-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038414397) impose de porter sur la facture la date de règlement, le taux des pénalités et cette indemnité. Notre [calculateur de pénalités de retard](/outils/calcul-penalites-de-retard/) donne le montant dû. Pour un particulier ou un acheteur public, d'autres règles s'appliquent.
+Entre professionnels, l'article L. 441-10 du Code de commerce prévoit un paiement 30 jours après l'exécution de la prestation si rien n'est convenu, et 60 jours au plus après l'émission de la facture, ou 45 jours fin de mois si le contrat le prévoit expressément. Les pénalités de retard sont exigibles sans rappel, et l'indemnité forfaitaire de recouvrement, fixée à 40 € par [l'article D. 441-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043197457), est due de plein droit. [L'article L. 441-9](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038414397) impose de porter sur la facture la date de règlement, le taux des pénalités et cette indemnité. Notre [calculateur de pénalités de retard donne le montant dû](/outils/calcul-penalites-de-retard/). Pour un particulier ou un acheteur public, d'autres règles s'appliquent.
 
 Relisez vos documents sur quatre points : qui est le débiteur, le fait que le paiement ne dépend pas du remboursement de l'OPCO, le délai et les mentions de facture, le sort des heures non réalisées. Pour la rédaction des clauses, passez par un professionnel du droit.
 
 ## Suivre paiements et relances, dossier par dossier
 
-Chaque dossier porte désormais un mode de paiement, et ce champ décide du destinataire de la facture, des pièces à envoyer et de la personne à relancer. Un tableur suffit pour commencer, avec ces colonnes :
+Chaque dossier porte désormais un mode de paiement, et ce champ décide du destinataire de la facture, des pièces à envoyer et de la personne à relancer. [Un tableur suffit pour commencer](/articles/automatisation-organisme-de-formation/), avec ces colonnes :
 
 - OPCO, numéro de dossier et date du premier accord ;
 - mode de paiement (subrogation, remboursement ou les deux) ;
