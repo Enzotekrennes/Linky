@@ -1,1 +1,308 @@
-[]
+[
+  {
+    "id": "formation-automatisation-gestion",
+    "keyword": "automatisation organisme de formation",
+    "variants": [
+      "gestion administrative organisme de formation",
+      "gestion administrative centre de formation"
+    ],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "guide",
+    "difficulty": "faible",
+    "businessFit": 3,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "automatisation organisme de formation",
+        "gestion administrative organisme de formation",
+        "gestion administrative centre de formation"
+      ],
+      "gsc": null,
+      "serp": "Pas de guide dédié dans les résultats consultés : surtout des formations à n8n ou au no-code, des fiches France Travail et des pages RH (Zavvy, 360Learning) sur la formation des salariés. Certiforma est le seul à aborder le sujet côté organisme, avec un module de démarrage et une mise en garde sur les processus flous. Le parcours d'une session, de l'inscription à la facture, n'y est pas déroulé."
+    },
+    "status": "validated",
+    "reason": "C'est le titre même de la page secteur, le lecteur a le problème que l'offre résout, et l'article peut porter le cas réel (sans chiffre) et donner à /secteurs/formation/ son premier lien.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-convocations-rappels",
+    "keyword": "logiciel gestion des convocations formation",
+    "variants": [
+      "peut-on automatiser les rappels de sessions de formation ?",
+      "convocation formation qualiopi",
+      "modèle convocation formation qualiopi",
+      "modèle convocation formation professionnelle",
+      "exemple convocation formation professionnelle"
+    ],
+    "sector": "formation",
+    "intent": "comparatif",
+    "format": "guide",
+    "difficulty": "faible",
+    "businessFit": 3,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "convocation formation qualiopi",
+        "modèle convocation formation qualiopi",
+        "modèle convocation formation professionnelle",
+        "exemple convocation formation professionnelle"
+      ],
+      "gsc": {
+        "impressions": 2,
+        "position": 63.5
+      },
+      "serp": "Sur la formulation « logiciel », des listes génériques (Culture RH, Appvizer, logiciels.pro) citent les convocations comme une fonction parmi d'autres. Sur les rappels, on ne trouve que des notices d'outils publics ou de LMS, et la recherche sur la convocation côté Qualiopi n'a remonté aucune page dédiée. La Search Console montre aussi « peut-on automatiser les rappels de sessions de formation ? » : 1 impression, position 4."
+    },
+    "status": "validated",
+    "reason": "Seules requêtes d'organismes de formation présentes dans la Search Console, sur une tâche que la page secteur cite telle quelle, avec une demande encore très mince (3 impressions en tout).",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-fin-subrogation-opco",
+    "keyword": "subrogation opco octobre 2026",
+    "variants": [
+      "opco subrogation fin",
+      "arret subrogation opco",
+      "sans subrogation opco",
+      "subrogation opco 2026",
+      "comment facturer un opco",
+      "facturation opco",
+      "facturation opco tva"
+    ],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "guide",
+    "difficulty": "moyenne",
+    "businessFit": 3,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "subrogation opco octobre 2026",
+        "opco subrogation fin",
+        "arret subrogation opco",
+        "sans subrogation opco",
+        "subrogation opco 2026",
+        "comment facturer un opco",
+        "facturation opco",
+        "facturation opco tva"
+      ],
+      "gsc": null,
+      "serp": "Résultats denses et récents : OPCO (OPCO EP, Akto), CAPEB, CNFCE, Certiforma et une dizaine d'articles de CPFormation, écrits surtout pour les entreprises et les responsables formation. Certiforma parle à l'organisme (trésorerie, relances, CGV), mais sa checklist vise l'avant 1er octobre. Le suivi après la bascule n'apparaît pas dans ce qui a été consulté : facture à l'entreprise, échéances, relances, certificat remis pour le remboursement."
+    },
+    "status": "published",
+    "reason": "Selon les OPCO et les dispositifs, l'organisme facture désormais l'entreprise au lieu de l'OPCO : c'est le changement le plus urgent du secteur, et il crée le besoin de suivi des paiements que le système couvre.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-facture-electronique",
+    "keyword": "facturation électronique organisme de formation",
+    "variants": [
+      "organisme de formation et facturation électronique",
+      "opco facturation electronique"
+    ],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "guide",
+    "difficulty": "moyenne",
+    "businessFit": 3,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "facturation électronique organisme de formation",
+        "organisme de formation et facturation électronique",
+        "opco facturation electronique"
+      ],
+      "gsc": null,
+      "serp": "Filiz, Digiforma (guide PDF), Certiforma, OPCO Direct, Keobiz et deux sites spécialisés traitent déjà le sujet, souvent avec un argument commercial. Le point clé y figure : une activité exonérée reçoit ses factures par plateforme, mais n'émet pas pour ces opérations. La page Filiz, lue en détail, n'a aucun outil, alors que le diagnostic gratuit du site propose le secteur Formation et le cas exonéré."
+    },
+    "status": "validated",
+    "reason": "Le diagnostic gratuit gère déjà le secteur et le cas exonéré, et l'article existant sur la réforme, écrit pour le BTP, ne dit pas un mot des organismes de formation.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-audit-surveillance-qualiopi",
+    "keyword": "audit de surveillance qualiopi",
+    "variants": [
+      "audit de surveillance qualiopi 2026",
+      "audit de surveillance qualiopi indicateurs",
+      "audit de surveillance qualiopi quels indicateurs",
+      "comment se passe un audit de surveillance qualiopi",
+      "quand faire l audit de surveillance qualiopi",
+      "audit de surveillance qualiopi délai",
+      "indicateurs qualiopi audit de surveillance"
+    ],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "guide",
+    "difficulty": "moyenne",
+    "businessFit": 3,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "audit de surveillance qualiopi",
+        "audit de surveillance qualiopi 2026",
+        "audit de surveillance qualiopi indicateurs",
+        "audit de surveillance qualiopi quels indicateurs",
+        "comment se passe un audit de surveillance qualiopi",
+        "quand faire l audit de surveillance qualiopi",
+        "audit de surveillance qualiopi délai",
+        "indicateurs qualiopi audit de surveillance"
+      ],
+      "gsc": null,
+      "serp": "Centre Inffo, Lefebvre Dalloz et des cabinets (Certiforma, Certifopac, Bloom Alternance) décrivent le calendrier et les attendus. Plusieurs supports datent d'avant le référentiel appliqué depuis le 1er novembre 2026 (décret n° 2026-728, 33 indicateurs selon Akto). La production et le classement des preuves au fil des sessions n'y sont évoqués que comme un conseil général."
+    },
+    "status": "validated",
+    "reason": "Le dirigeant certifié qui rassemble ses preuves avant l'audit a exactement le problème décrit sur la page secteur, et le nouveau référentiel rend une partie des pages en place datées.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-conservation-documents",
+    "keyword": "délai conservation documents organisme de formation",
+    "variants": [
+      "documents obligatoires organisme de formation",
+      "documents obligatoires fin de formation"
+    ],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "checklist",
+    "difficulty": "faible",
+    "businessFit": 2,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "délai conservation documents organisme de formation",
+        "documents obligatoires organisme de formation",
+        "documents obligatoires fin de formation"
+      ],
+      "gsc": null,
+      "serp": "Pas de page de référence dans les résultats consultés : une FAQ Centre Inffo, une page Certiforma sur les obligations, des sources luxembourgeoises (Pixie) et des résultats hors sujet. Les durées varient selon les sources, et rien ne les rassemble par type de document."
+    },
+    "status": "validated",
+    "reason": "Question propre aux organismes sur un terrain peu couvert, et porte d'entrée vers le classement automatique des preuves ; les durées devront venir des textes officiels.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-tableau-de-bord",
+    "keyword": "tableau de bord organisme de formation",
+    "variants": [],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "guide",
+    "difficulty": "faible",
+    "businessFit": 2,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "tableau de bord organisme de formation"
+      ],
+      "gsc": null,
+      "serp": "Résultats hors sujet : catalogues de formations au pilotage par tableaux de bord (CNFCE, Lefebvre Dalloz, Orsys) et contenus sur le plan de formation en entreprise. Aucune page consultée ne dit quels chiffres suivre dans un organisme : sessions, dossiers en attente, paiements par financeur."
+    },
+    "status": "validated",
+    "reason": "Une seule suggestion, donc une demande à confirmer, mais la place est libre et le sujet mène droit à l'application centrale.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-certificat-realisation",
+    "keyword": "certificat de réalisation formation",
+    "variants": [
+      "certificat de réalisation formation modèle",
+      "certificat de réalisation formation opco",
+      "certificat de réalisation formation qualiopi",
+      "certificat de réalisation formation ministère du travail",
+      "certificat de réalisation formation word",
+      "obligation certificat de réalisation formation"
+    ],
+    "sector": "formation",
+    "intent": "modèle",
+    "format": "modèle commenté",
+    "difficulty": "moyenne",
+    "businessFit": 2,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "certificat de réalisation formation",
+        "certificat de réalisation formation modèle",
+        "certificat de réalisation formation opco",
+        "certificat de réalisation formation qualiopi",
+        "certificat de réalisation formation ministère du travail",
+        "certificat de réalisation formation word",
+        "obligation certificat de réalisation formation"
+      ],
+      "gsc": null,
+      "serp": "Centre Inffo et Akto publient le modèle du ministère, Learnybox un générateur, Transitions Pro un PDF. Le modèle officiel existe déjà : la valeur est dans son explication et sa production à partir des émargements. Les résultats vus sur ce document n'évoquent pas son rôle dans le remboursement de l'entreprise, alors qu'OPCO EP le cite parmi les pièces à fournir."
+    },
+    "status": "validated",
+    "reason": "Document propre aux organismes, qui déclenche le paiement, et le plus proche du cas réel publié (documents générés et envoyés aux financeurs).",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-documents-qualiopi",
+    "keyword": "qualiopi documents obligatoires",
+    "variants": [
+      "document obligatoire qualiopi",
+      "quel document pour qualiopi",
+      "qualiopi documents à fournir",
+      "justificatif qualiopi",
+      "preuves qualiopi",
+      "dossier qualiopi exemple"
+    ],
+    "sector": "formation",
+    "intent": "informationnelle",
+    "format": "checklist",
+    "difficulty": "moyenne",
+    "businessFit": 2,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "qualiopi documents obligatoires",
+        "document obligatoire qualiopi",
+        "quel document pour qualiopi",
+        "qualiopi documents à fournir",
+        "justificatif qualiopi",
+        "preuves qualiopi",
+        "dossier qualiopi exemple"
+      ],
+      "gsc": null,
+      "serp": "Certiforma occupe le terrain avec plusieurs pages (documents obligatoires, indicateurs, guide de lecture) ; le reste mêle annonces Comeup, pages de formateurs et une fiche Agefiph. Aucune liste officielle figée n'existe : on raisonne par preuve. Les extraits consultés citent encore 32 indicateurs et la V9 du guide de lecture, alors que le référentiel a changé au 1er novembre 2026."
+    },
+    "status": "validated",
+    "reason": "Lecteur exact, mais souvent en quête d'un kit gratuit pour une première certification : moins proche de l'achat que l'audit de surveillance, dont l'article doit rester distinct.",
+    "updatedAt": "2026-11-05"
+  },
+  {
+    "id": "formation-facture-sans-tva",
+    "keyword": "facture organisme de formation sans tva",
+    "variants": [
+      "mention obligatoire facture organisme de formation",
+      "facturation organisme de formation",
+      "facture centre de formation",
+      "modele facture centre de formation",
+      "facturation tva organisme de formation",
+      "exonération tva organisme de formation"
+    ],
+    "sector": "formation",
+    "intent": "modèle",
+    "format": "modèle commenté",
+    "difficulty": "moyenne",
+    "businessFit": 2,
+    "target": "new",
+    "evidence": {
+      "autocomplete": [
+        "facture organisme de formation sans tva",
+        "mention obligatoire facture organisme de formation",
+        "facturation organisme de formation",
+        "facture centre de formation",
+        "modele facture centre de formation",
+        "facturation tva organisme de formation",
+        "exonération tva organisme de formation"
+      ],
+      "gsc": null,
+      "serp": "L-Expert-Comptable, Certiforma, Copeps, Abby et Centre Inffo expliquent l'exonération. Les sources divergent sur la rédaction de la mention et sur le formulaire, et certaines pages anciennes parlent d'une option. Le cas d'une session répartie entre plusieurs financeurs n'apparaît pas dans les extraits consultés."
+    },
+    "status": "validated",
+    "reason": "Besoin réel des organismes, mais lectorat large (formateurs indépendants hors cible) et sujet fiscal : on explique la règle, on cite le texte et on renvoie au comptable.",
+    "updatedAt": "2026-11-05"
+  }
+]
