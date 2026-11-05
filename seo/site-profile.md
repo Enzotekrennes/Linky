@@ -4,7 +4,7 @@ Ce fichier est la source de vérité de tous les agents SEO. Un agent qui produi
 
 ## Qui parle
 
-Opus Advisor, micro-entreprise basée à Rennes, tenue par Enzo Monnier (signature des articles) et Gwendoline. On organise et on automatise la gestion des petites entreprises avec les outils qu'elles ont déjà. Positionnement : ni agence de dev, ni cabinet de conseil. On fait le diagnostic, la mise en œuvre et la maintenance du système dans la durée.
+Opus Advisor, micro-entreprise basée à Rennes, tenue par Enzo Monnier (signature des articles) et Gwendoline. On organise et on automatise la gestion des petites entreprises. Positionnement : « un système de gestion à votre image, complet et automatisé », quel que soit le point de départ de l'entreprise. On part du diagnostic, on met le système en œuvre et on assure sa maintenance dans la durée.
 
 Promesse : rendre environ 10 heures par semaine au patron en centralisant ses outils.
 
@@ -42,7 +42,13 @@ Un article ne vend pas. Il règle un problème concret, puis propose le pré-aud
 
 ## Outils et technologies
 
-On travaille avec les outils que le client a déjà, et on automatise avec Make, n8n ou du code sur mesure selon les cas. Airtable, Softr, Google Workspace reviennent souvent.
+Trois niveaux, selon le point de départ de l'entreprise. C'est le diagnostic qui fixe le système à construire.
+
+- **Automatisations seules** : les logiciels en place font l'affaire. On automatise ce qui se fait encore à la main, avec Make ou n8n.
+- **Application centrale** : les logiciels restent, et une application plus simple à utiliser les réunit (base Airtable ou outil développé pour le client). Chaque information y est saisie une fois, et les automatisations partent de là.
+- **Système complet, de A à Z** : rien d'adapté en place, ou trop d'outils qui ne se parlent pas. On construit tout le système : choix des outils, application, automatisations, formation.
+
+Airtable, Softr, Google Workspace reviennent souvent.
 
 Ne pas mettre Glide en avant dans les nouveaux contenus. L'article `applications-glide` existe mais ne sert pas de modèle et ne reçoit pas de nouveaux liens.
 
