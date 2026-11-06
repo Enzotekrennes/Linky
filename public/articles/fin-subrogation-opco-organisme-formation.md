@@ -64,7 +64,7 @@ Le numéro de dossier est obligatoire chez Atlas, Akto, l'Opcommerce et OPCO Mob
 
 Côté montant, Atlas règle « la facture TTC à l'organisme de formation, dans la limite de l'accord de prise en charge ». Akto vous règle « avec ou sans TVA selon que votre prestation y est soumise ou non ».
 
-En facture électronique, Atlas, Akto et OPCO Mobilités publient chacun un adressage réservé à la formation (851296632_FORMATION, 853000982_FORMATION et 851240499_FORMATION), l'Opcommerce un identifiant de réception (398522243_Formation). Notre [article sur le calendrier de la facturation électronique](/articles/facturation-electronique-2026/), écrit pour le BTP, donne les dates communes.
+En facture électronique, Atlas, Akto et OPCO Mobilités publient chacun un adressage réservé à la formation (851296632_FORMATION, 853000982_FORMATION et 851240499_FORMATION), l'Opcommerce un identifiant de réception (398522243_Formation). Selon que la formation facturée est exonérée ou taxable, la facture entre ou non dans la réforme, comme le détaille notre article sur [la facturation électronique des organismes de formation](/articles/facturation-electronique-organisme-formation/).
 
 Atlas demande aussi, en facture électronique, de joindre les justificatifs, « certificat de réalisation notamment », à l'envoi de la facture. S'il en manque, il relance l'organisme, qui les transmet par myAtlas prestataires. Par exemple, la facture part vendredi soir, le certificat reste à établir lundi, et Atlas vous relance pour une pièce qui pouvait partir avec elle.
 
