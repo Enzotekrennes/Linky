@@ -116,9 +116,9 @@
       "gsc": null,
       "serp": "Filiz, Digiforma (guide PDF), Certiforma, OPCO Direct, Keobiz et deux sites spécialisés traitent déjà le sujet, souvent avec un argument commercial. Le point clé y figure : une activité exonérée reçoit ses factures par plateforme, mais n'émet pas pour ces opérations. La page Filiz, lue en détail, n'a aucun outil, alors que le diagnostic gratuit du site propose le secteur Formation et le cas exonéré."
     },
-    "status": "validated",
+    "status": "published",
     "reason": "Le diagnostic gratuit gère déjà le secteur et le cas exonéré, et l'article existant sur la réforme, écrit pour le BTP, ne dit pas un mot des organismes de formation.",
-    "updatedAt": "2026-11-05"
+    "updatedAt": "2026-11-06"
   },
   {
     "id": "formation-audit-surveillance-qualiopi",

@@ -1,5 +1,21 @@
 [
     {
+        "id": 21,
+        "slug": "facturation-electronique-organisme-formation",
+        "title": "Organisme de formation : facturation électronique et TVA exonérée",
+        "description": "Organisme de formation exonéré, mixte ou taxable : ce que la facturation électronique impose depuis septembre 2026, avec les textes officiels.",
+        "imageSrc": "/images/Logo_1200x630.png",
+        "icon": "file-text",
+        "publishedAt": "2026-11-06",
+        "category": "Réglementation",
+        "seoTitle": "Facturation électronique : organisme de formation exonéré",
+        "related": [
+            "fin-subrogation-opco-organisme-formation",
+            "automatisation-organisme-de-formation",
+            "facturation-electronique-2026"
+        ]
+    },
+    {
         "id": 20,
         "slug": "automatisation-organisme-de-formation",
         "title": "Automatisation d'un organisme de formation : par où commencer",
@@ -29,7 +45,7 @@
         "category": "Réglementation",
         "seoTitle": "Fin subrogation OPCO : qui facturer depuis octobre 2026",
         "related": [
-            "relances-automatiques-impayes-btp",
+            "facturation-electronique-organisme-formation",
             "automatisation-organisme-de-formation",
             "organisation-avant-developpement"
         ],

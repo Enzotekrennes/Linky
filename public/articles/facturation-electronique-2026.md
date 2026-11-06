@@ -15,7 +15,7 @@ ctaMid:
 
 *Catégorie : Réglementation BTP — Lecture : 6 minutes — Auteur : Enzo Monnier, Opus Advisor*
 
-*Mise à jour d'octobre 2026 : cet article a été écrit en mai 2026, avant l'échéance du 1er septembre 2026, qui est maintenant passée. La prochaine étape arrive le 1er septembre 2027, quand les PME devront émettre leurs factures au format électronique. Les trois chantiers décrits plus bas (plateforme agréée, fichier clients, flux de factures) restent ceux à mener pour s'y préparer. Pour savoir où en est votre entreprise, le [diagnostic gratuit](/diagnostic-facture-electronique/) prend 2 minutes.*
+*Mise à jour d'octobre 2026 : cet article a été écrit en mai 2026, avant l'échéance du 1er septembre 2026, qui est maintenant passée. La prochaine étape arrive le 1er septembre 2027, quand les PME devront émettre leurs factures au format électronique. Les trois chantiers décrits plus bas (plateforme agréée, fichier clients, flux de factures) restent ceux à mener pour s'y préparer. Pour savoir où en est votre entreprise, le [diagnostic gratuit](/diagnostic-facture-electronique/) prend 2 minutes. Organisme de formation ? Notre article sur [la facturation électronique quand vos formations sont exonérées de TVA](/articles/facturation-electronique-organisme-formation/) détaille ce qui vous concerne.*
 
 Un sondage récent chiffre l'impréparation des TPE françaises à un peu plus de 3 mois de l'échéance : 40 % ne seront pas prêtes au 1er septembre 2026. Pour les entreprises du BTP, le retard est probablement pire. Et le plus inquiétant, c'est que beaucoup de patrons croient encore que ça ne les concerne qu'en 2027.
 

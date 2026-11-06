@@ -72,7 +72,7 @@ export default function FormationPage() {
       ]}
       demo={['formation']}
       cases={casesFor('formation')}
-      reading={{ title: 'À lire pour les organismes de formation', slugs: ['automatisation-organisme-de-formation', 'fin-subrogation-opco-organisme-formation'] }}
+      reading={{ title: 'À lire pour les organismes de formation', slugs: ['automatisation-organisme-de-formation', 'fin-subrogation-opco-organisme-formation', 'facturation-electronique-organisme-formation'] }}
       ctaTitle="Combien d'heures par session passent dans les dossiers ?"
       ctaText="Pendant le pré-audit, on suit le parcours d'un stagiaire dans vos outils, de l'inscription à la facturation, et on repère ce qui peut partir tout seul. 30 minutes en visio, gratuites."
     />
