@@ -14,6 +14,12 @@ on:
   push:
     branches:
       - main
+  # Depuis le déplacement du dépôt, une fusion ne déclenche pas toujours l'événement push :
+  # la fermeture de la PR fusionnée lance le déploiement à sa place.
+  pull_request:
+    types: [closed]
+    branches:
+      - main
   workflow_dispatch:
   # Les index BT de l'INSEE paraissent vers le 15 du mois : deux recompilations mensuelles
   # suffisent à mettre /outils/indice-bt01/ à jour sans intervention.
@@ -29,10 +35,13 @@ concurrency:
 
 jobs:
   publish:
+    if: github.event_name != 'pull_request' || github.event.pull_request.merged
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
       - uses: actions/checkout@v7
+        with:
+          ref: main
 
       - uses: actions/setup-node@v7
         with:
@@ -52,7 +61,7 @@ jobs:
       - name: Publier out/ dans la branche deploy
         env:
           # Passe par l'environnement : jamais interpole directement dans le script.
-          COMMIT_MSG: ${{ github.event.head_commit.message || github.event_name }}
+          COMMIT_MSG: ${{ github.event.head_commit.message || github.event.pull_request.title || github.event_name }}
           TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           test -f out/index.html
