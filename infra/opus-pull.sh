@@ -6,7 +6,7 @@ set -euo pipefail
 
 WEBROOT="/var/www/opusadvisor"
 SRC="$WEBROOT/src"
-REPO_URL="https://github.com/gwen24112003/Linky.git"
+REPO_URL="https://github.com/Enzotekrennes/Linky.git"
 
 if [ ! -d "$SRC/.git" ]; then
   git clone -q --depth 1 --branch deploy "$REPO_URL" "$SRC"

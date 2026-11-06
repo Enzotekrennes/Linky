@@ -5,7 +5,7 @@
 set -euo pipefail
 
 DIR="/opt/opus-lead-api"
-REPO_URL="https://github.com/gwen24112003/Linky.git"
+REPO_URL="https://github.com/Enzotekrennes/Linky.git"
 PATHS=(services/lead-api lib/einvoice)
 
 if [ ! -d "$DIR/.git" ]; then
