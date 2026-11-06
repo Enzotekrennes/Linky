@@ -1,0 +1,112 @@
+1:"$Sreact.fragment"
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2960,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"Header"]
+f:I[7150,[],""]
+:HL["/_next/static/media/9d5a263311222317-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/bb150b2d65e21410.css","style"]
+:HL["/_next/static/css/dceda4ec131cabf6.css","style"]
+2:T840,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://opusadvisor.fr/#organization","name":"Opus Advisor","alternateName":"Opus Advisor","description":"Organisation et automatisation de la gestion des petites entreprises (organismes de formation, immobilier et conciergerie, BTP second œuvre) : des systèmes construits à l'image de chaque entreprise, des automatisations entre les logiciels existants jusqu'au système complet monté de A à Z. Diagnostic chiffré, mise en œuvre, formation de l'équipe, suivi.","url":"https://opusadvisor.fr","logo":"https://opusadvisor.fr/images/opus-icon.png","image":"https://opusadvisor.fr/images/Logo_1200x630.png","email":"enzo@opusadvisor.fr","telephone":"+33615756549","founder":{"@type":"Person","@id":"https://opusadvisor.fr/equipe/#enzo-monnier","name":"Enzo Monnier","jobTitle":"Consultant en organisation et automatisation","url":"https://www.linkedin.com/in/enzo-monnier/"},"address":{"@type":"PostalAddress","streetAddress":"25 allée du petit domaine","postalCode":"35590","addressLocality":"L'Hermitage","addressRegion":"Bretagne","addressCountry":"FR"},"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"enzo@opusadvisor.fr","telephone":"+33615756549","areaServed":"FR","availableLanguage":["French"]},"areaServed":{"@type":"Country","name":"France"},"serviceType":["Automatisation de la gestion administrative","Automatisation pour organismes de formation","Automatisation pour conciergeries et agences immobilières","Automatisation pour le BTP second œuvre","Mise en conformité facturation électronique 2027","Automatisation Make et n8n","Formation de l'équipe"],"knowsAbout":["organismes de formation","Qualiopi","conciergerie","location courte durée","agences immobilières","second œuvre","électricité","plomberie","chauffage-climatisation","Batappli","Obat","Tolteck","EBP Bâtiment","facturation électronique 2027","Make","n8n","Notion","WhatsApp Business"],"sameAs":["https://www.linkedin.com/in/enzo-monnier/","https://www.instagram.com/opusadvisor/","https://x.com/opusadvisor"]}]}0:{"P":null,"b":"VyCp5VQsLhg_ChQs2pQFF","p":"","c":["","articles","organisation-avant-developpement",""],"i":false,"f":[[["",{"children":["articles",{"children":[["slug","organisation-avant-developpement","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/bb150b2d65e21410.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/dceda4ec131cabf6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"fr","className":"__variable_aa6f30 __variable_e3a89d","children":[["$","head",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","script",null,{"defer":true,"src":"/s.js","data-website-id":"c06738dc-ecbf-4865-b2e6-39bea1b1a70c","data-domains":"opusadvisor.fr"}]]}],["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex flex-col bg-white","children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-grow flex items-center justify-center py-24","children":["$","div",null,{"className":"text-center px-6","children":[["$","p",null,{"className":"text-sm font-semibold tracking-[0.25em] uppercase mb-4","style":{"color":"#8A6A1C"},"children":"Erreur 404"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-bold text-gray-900 mb-6","children":"Page introuvable"}],"$L6","$L7"]}]}],"$L8"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L9","$La"]}]]}]]}],{"children":["articles","$Lb",{"children":[["slug","organisation-avant-developpement","d"],"$Lc",{"children":["__PAGE__","$Ld",{},null,false]},null,false]},null,false]},null,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[2619,["465","static/chunks/465-c557c8792e1c1d65.js","621","static/chunks/621-f07f8a7f6e5bc7f0.js","462","static/chunks/462-7e0ed94289eeef2d.js","336","static/chunks/336-518570efe839e3b0.js","974","static/chunks/app/page-8a639fe55063774a.js"],""]
+11:I[3435,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"Footer"]
+12:I[9161,["177","static/chunks/app/layout-9c87e3a79982b72e.js"],"ClickTracker"]
+13:I[2931,["177","static/chunks/app/layout-9c87e3a79982b72e.js"],"RevealProvider"]
+15:I[4431,[],"OutletBoundary"]
+17:I[5278,[],"AsyncMetadataOutlet"]
+19:I[4431,[],"ViewportBoundary"]
+1b:I[4431,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+6:["$","p",null,{"className":"text-gray-600 text-lg mb-10 max-w-md mx-auto","children":"La page que vous recherchez n'existe pas ou a été déplacée."}]
+7:["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-3 text-white px-8 py-4 rounded-xl font-semibold hover:scale-105 transition-all duration-200","style":{"background":"#1A2332"},"children":"Retour à l'accueil"}]
+8:["$","$L11",null,{}]
+9:["$","$L12",null,{}]
+a:["$","$L13",null,{}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+e:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1f:I[2015,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"ArticleView"]
+1e:T4d5,{"@context":"https://schema.org","@type":"BlogPosting","headline":"Changer de logiciel BTP ? 4 questions avant de signer","description":"Envie de changer de logiciel BTP ? Le plus souvent, le frein vient de l'usage, pas de l'outil. Quatre questions avant de signer un devis à 30 000 €.","image":"https://opusadvisor.fr/images/Logo_1200x630.png","url":"https://opusadvisor.fr/articles/organisation-avant-developpement/","mainEntityOfPage":{"@type":"WebPage","@id":"https://opusadvisor.fr/articles/organisation-avant-developpement/"},"datePublished":"2026-04-25","dateModified":"2026-10-19","articleSection":"Organisation et gestion des entreprises du BTP","keywords":"changement logiciel BTP, Batappli vs Obat, audit usage logiciel bâtiment, France Num BTP, investissement numérique TPE BTP","author":{"@type":"Person","@id":"https://opusadvisor.fr/equipe/#enzo-monnier","name":"Enzo Monnier","url":"https://opusadvisor.fr/equipe/","jobTitle":"Fondateur d'Opus Advisor","worksFor":{"@type":"Organization","name":"Opus Advisor","url":"https://opusadvisor.fr"}},"publisher":{"@type":"Organization","name":"Opus Advisor","url":"https://opusadvisor.fr","logo":{"@type":"ImageObject","url":"https://opusadvisor.fr/images/opus-icon.png"}}}20:T217c,Quand ses outils l'agacent, un patron du BTP pense d'abord à en acheter un nouveau. Or ce qui coince tient le plus souvent à l'usage qu'on en fait, pas à l'outil. Une étude Pendo sur 615 abonnements à des logiciels professionnels chiffre le gaspillage : 80 % des fonctionnalités achetées sont rarement ou jamais utilisées. Côté France, le baromètre France Num 2025 montre que 73 % des TPE-PME du bâtiment investissent moins de 1 000 € par an dans le numérique. Avant de signer un devis à 30 000 €, prenez 6 minutes pour vérifier une chose : que vous n'êtes pas en train d'acheter un nouveau logiciel pour ne pas l'utiliser non plus.
+
+---
+
+## Le réflexe "nouveau logiciel"
+
+Le moment où ça déclenche est presque toujours le même. Une boîte BTP de 12 à 20 salariés a son logiciel depuis 2 ou 3 ans. Le patron en a marre. Les devis sortent en retard, les factures aussi, le comptable râle, l'assistante saisit la même donnée 3 fois. Conclusion : "il faut qu'on change d'outil".
+
+S'enchaînent les démos. Obat à la place de Batappli. Tolteck à la place d'EBP. Un grand logiciel à la place d'un petit. Chaque démo paraît mieux que la précédente. Le devis tombe à 5 000 € pour une migration légère, à 30 000 € pour un changement plus structurant.
+
+Le patron signe, soulagé d'avoir tranché. Six mois plus tard, le constat est rarement à la hauteur.
+
+## Ce qui se passe vraiment 6 mois après l'achat
+
+Trois choses, dans cet ordre.
+
+**Le nouveau logiciel reproduit les mêmes problèmes.** Les process internes n'ont pas bougé. La même assistante saisit la même donnée 3 fois, juste dans une nouvelle interface. Les chefs de chantier qui n'utilisaient pas l'app mobile de l'ancien logiciel n'utilisent pas non plus celle du nouveau. Le frein venait de la chaîne d'information, pas de l'outil.
+
+**L'équipe terrain n'utilise toujours qu'une fraction des fonctions.** L'étude Pendo le confirme à l'échelle mondiale : 80 % des fonctionnalités d'un logiciel professionnel sont rarement ou jamais utilisées. Sur le terrain BTP, le chiffre exact n'est pas mesuré, mais le scénario qu'on observe converge. Un Batappli ou un Obat exploités à 30 ou 40 % de leur potentiel, et ce taux reste le même quand on change d'outil.
+
+**Le patron paie 2 fois plus cher pour le même résultat.** L'investissement initial, plus le coût caché de la migration : 6 mois de paramétrage, 3 mois de double saisie pendant la transition, formation de l'équipe, données mal reprises qu'il faut nettoyer. Au bout de 18 mois, on est revenu au point de départ avec une nouvelle facture.
+
+La durée de vie moyenne d'un logiciel de gestion en PME tourne autour de 8 à 10 ans. Si vous changez tous les 3 ans, vous reproduisez le même cycle d'échec 3 fois plus souvent que la moyenne.
+
+## Les 4 questions à se poser avant d'acheter
+
+Avant de signer un devis logiciel, posez-vous ces quatre questions, honnêtement.
+
+**1. Est-ce que mon problème est un problème d'outil ou un problème d'organisation ?** Test simple : si je décrivais le même problème à 3 patrons BTP de mon réseau, est-ce qu'ils me diraient "c'est ton logiciel" ou "c'est tes process" ? Si la réponse penche vers "tes process", changer d'outil ne réglera rien.
+
+**2. Est-ce que j'ai vraiment exploité mon outil actuel à 100 % ?** Demandez à votre éditeur la liste des modules et fonctions inclus dans votre formule. Cochez ce que vous utilisez. Si vous êtes en dessous de 60 %, l'outil tient son rôle. Le souci, c'est qu'il n'a jamais été paramétré ou que personne n'a appris à s'en servir.
+
+**3. Est-ce que mon équipe terrain est partie prenante du choix ?** Si vous achetez un logiciel pour vos chefs de chantier sans les consulter, ils ne l'utiliseront pas. C'est mécanique. Faites-leur tester 2 candidats sur un vrai chantier pendant 2 semaines avant de décider. Si aucun ne s'impose à l'usage, le besoin est ailleurs.
+
+**4. Est-ce que je sais combien le problème actuel me coûte par semaine ?** Si vous ne pouvez pas répondre [en heures et en euros](/outils/calcul-cout-horaire-main-doeuvre/), vous n'êtes pas prêt à acheter. Vous risquez de payer un nouveau logiciel pour résoudre un problème dont vous ne mesurez ni l'ampleur, ni le coût réel.
+
+## Quand un nouvel outil se justifie vraiment
+
+Voici les cas où changer est la bonne décision.
+
+**Votre logiciel n'est plus maintenu par l'éditeur**, ou son support a clairement décroché. Là, la migration devient une question de risque et de continuité, pas de confort.
+
+**Vous changez fondamentalement de modèle.** Vous passez de l'artisan dépendant à l'entreprise structurée à 25 salariés. Vous intégrez une activité de SAV avec des contrats de maintenance récurrents. Vous ajoutez une équipe de chiffrage dédiée aux marchés publics avec gestion des CCTP et DPGF. Dans ces situations, l'outil actuel peut effectivement ne plus suivre.
+
+**Votre besoin métier a structurellement changé.** Vous reprenez une boîte avec une activité différente, vous bifurquez d'un métier "pose simple" vers de la "pose et maintenance", vous ajoutez de la sous-traitance avec autoliquidation TVA systématique. Quand la vraie nouveauté est métier, un nouvel outil devient pertinent.
+
+Hors de ces trois cas, le réflexe "je change de logiciel" coûte presque toujours plus cher que la réponse "je structure mieux ce que j'ai déjà".
+
+## Un cas type
+
+Un exemple construit à partir d'une situation courante : une boîte d'élec qui veut quitter Batappli pour Obat. En écoutant le patron, le vrai problème ressort vite. Les modèles de devis n'ont jamais été paramétrés depuis l'installation 4 ans plus tôt. Les commerciaux ressaisissent l'essentiel à la main à chaque devis. Le module situation existe mais n'est pas activé, et l'export comptable n'est pas connecté.
+
+Changer pour Obat coûterait 3 000 à 8 000 € de migration plus l'abonnement plus 6 mois de mise en place. [Re-paramétrer Batappli proprement](/secteurs/btp/) coûte 0 € d'abonnement supplémentaire et 2 à 3 semaines de travail. Dans ce cas, re-paramétrer suffit à régler l'essentiel des frictions, sans changer d'outil.
+
+Batappli et Obat se valent : les deux font le travail. Ce qui bloquait, c'était l'usage, pas le choix de l'outil. Et tant qu'on ne l'a pas vu, on remplace un logiciel sous-utilisé par un autre logiciel sous-utilisé.
+
+## Que faire avant tout achat
+
+Trois actions à mener dans les 30 jours, avant de signer.
+
+**1. Faites un audit honnête de l'usage actuel sur 1 mois.** Pour chaque module de votre logiciel, regardez qui s'en sert, à quelle fréquence, et pour quoi faire. La méthode la plus simple : 4 entretiens de 20 minutes (patron, assistante, chef de chantier, comptable). À la fin, vous avez [votre score d'exploitation](/articles/diagnostic-operationnel-pme/), module par module.
+
+**2. Listez vos 5 vraies frictions, hors outil.** "Mon devis met 5 jours à sortir parce que personne ne sait quel modèle utiliser." "On rate des relances de retenue de garantie parce qu'aucune alerte n'est posée." "Les photos chantier ne sont jamais retrouvées quand le client réclame." Ces frictions relèvent de l'organisation. Aucun nouveau logiciel ne les résout tout seul.
+
+**3. Testez 30 jours une fonction que vous n'utilisez pas encore.** Avant de remplacer, exploitez. Activez le module situation, le suivi de chantier mobile ou l'export comptable que vous payez déjà sans utiliser. Si au bout de 30 jours vous avez réglé 2 de vos 5 frictions, vous le saviez déjà. Si vous n'avez rien bougé, l'outil n'était pas en cause.
+
+---
+
+**Vous voulez voir où vous laissez vraiment du temps chaque semaine ?** Pré-audit gratuit en visio, 30 minutes, sans engagement. Vous me montrez votre logiciel actuel, je vous dis en direct ce que vous payez sans utiliser et combien ça vous coûte.
+
+[Réserver un créneau](/contact)
+
+---
+
+*Sources : [Pendo, 2019 Feature Adoption Report, 615 abonnements analysés](https://www.pendo.io/resources/the-2019-feature-adoption-report/), [Baromètre France Num 2025, economie.gouv.fr](https://www.economie.gouv.fr/actualites/transformation-numerique-des-tpepme-les-enseignements-du-barometre-2025-de-france-num), [Zylo, Shelfware Explained 2024](https://zylo.com/blog/shelfware/), [1Life, durée de vie d'un ERP](https://www.1life.fr/faq/quelle-est-la-duree-de-vie-dun-logiciel-erp/), [FFB, conjoncture bâtiment septembre 2025](https://www.ffbatiment.fr/actualites-batiment/actualite-ba/conjoncture-batiment-septembre-2025).*14:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1e"}}],null,["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://opusadvisor.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Articles\",\"item\":\"https://opusadvisor.fr/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Changer de logiciel BTP ? 4 questions avant de signer\",\"item\":\"https://opusadvisor.fr/articles/organisation-avant-developpement/\"}]}"}}],["$","$L5",null,{}],["$","main",null,{"className":"min-h-screen bg-white","children":[["$","$L1f",null,{"title":"Changer de logiciel BTP ? 4 questions avant de signer","description":"Envie de changer de logiciel BTP ? Le plus souvent, le frein vient de l'usage, pas de l'outil. Quatre questions avant de signer un devis à 30 000 €.","content":"$20","publishedLabel":"25 avril 2026","updatedLabel":"19 octobre 2026","readingMinutes":6,"essentiel":["80 % des fonctionnalités d'un logiciel professionnel sont rarement ou jamais utilisées (étude Pendo sur 615 abonnements).","Changer d'outil sans changer d'organisation reproduit les mêmes problèmes, pour deux fois plus cher.","Quatre questions à se poser avant de signer, et les trois cas où changer de logiciel se justifie."],"faq":[],"ctaMid":{"text":"Avant de changer de logiciel, mesurez ce que vous utilisez vraiment. C'est l'objet de l'Audit Stack : 990 €, rendu en 10 jours ouvrés.","label":"Voir l'Audit Stack","href":"/services/#audit-stack"}}],"$L21"]}],"$L22"]
+23:I[8132,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"RelatedArticles"]
+21:["$","$L23",null,{"currentArticleId":3}]
+22:["$","$L11",null,{}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:null
+24:I[622,[],"IconMark"]
+18:{"metadata":[["$","title","0",{"children":"Changer de logiciel BTP ? 4 questions avant de signer"}],["$","meta","1",{"name":"description","content":"Envie de changer de logiciel BTP ? Le plus souvent, le frein vient de l'usage, pas de l'outil. Quatre questions avant de signer un devis à 30 000 €."}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"changement logiciel BTP,Batappli vs Obat,audit usage logiciel bâtiment,France Num BTP,investissement numérique TPE BTP"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://opusadvisor.fr/articles/organisation-avant-developpement/"}],["$","meta","6",{"property":"og:title","content":"Changer de logiciel BTP ? 4 questions avant de signer"}],["$","meta","7",{"property":"og:description","content":"Envie de changer de logiciel BTP ? Le plus souvent, le frein vient de l'usage, pas de l'outil. Quatre questions avant de signer un devis à 30 000 €."}],["$","meta","8",{"property":"og:url","content":"https://opusadvisor.fr/articles/organisation-avant-developpement/"}],["$","meta","9",{"property":"og:image","content":"https://opusadvisor.fr/images/Logo_1200x630.png"}],["$","meta","10",{"property":"og:image:alt","content":"Illustration de l'article : Changer de logiciel BTP ? 4 questions avant de signer"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-04-25"}],["$","meta","13",{"property":"article:modified_time","content":"2026-10-19"}],["$","meta","14",{"property":"article:author","content":"Enzo Monnier"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Changer de logiciel BTP ? 4 questions avant de signer"}],["$","meta","17",{"name":"twitter:description","content":"Envie de changer de logiciel BTP ? Le plus souvent, le frein vient de l'usage, pas de l'outil. Quatre questions avant de signer un devis à 30 000 €."}],["$","meta","18",{"name":"twitter:image","content":"https://opusadvisor.fr/images/Logo_1200x630.png"}],["$","meta","19",{"name":"twitter:image:alt","content":"Illustration de l'article : Changer de logiciel BTP ? 4 questions avant de signer"}],["$","link","20",{"rel":"icon","href":"/images/opus-icon.png"}],["$","link","21",{"rel":"apple-touch-icon","href":"/images/opus-icon.png"}],["$","$L24","22",{}]],"error":null,"digest":"$undefined"}
+1d:"$18:metadata"

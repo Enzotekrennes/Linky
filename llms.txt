@@ -1,0 +1,86 @@
+# Opus Advisor
+
+> Opus Advisor construit des systèmes de gestion complets et automatisés pour les petites entreprises, à l'image de chacune. Selon le besoin : des automatisations entre les outils déjà en place (logiciel métier, tableurs, mails, banque, comptabilité), une application centrale qui réunit ces outils, ou un système monté de A à Z. Secteurs : organismes de formation, immobilier et conciergerie, BTP second œuvre. Objectif annoncé : rendre 10 heures par semaine au dirigeant à partir du deuxième mois. Basé à Rennes, intervient partout en France. Indépendant de tout éditeur de logiciel.
+
+## Comment on travaille
+- Automatisations seules : quand les logiciels de l'entreprise font l'affaire, on automatise ce qui se fait encore à la main (documents, mails, relances, factures) avec Make ou n8n.
+- Application centrale : les logiciels restent en place et une application plus simple à utiliser les réunit (base Airtable ou outil développé sur mesure). Chaque information y est saisie une fois et les automatisations partent de là. Exemple : une conciergerie avec un logiciel de réservation et un logiciel de facturation.
+- Système complet : quand rien d'adapté n'est en place, on construit tout le système, du choix des outils à la formation de l'équipe.
+- Tous les comptes et tous les outils restent au nom du client ; une documentation complète lui est remise.
+
+## Diagnostic gratuit
+- [Diagnostic facture électronique](https://opusadvisor.fr/diagnostic-facture-electronique/): 7 questions, 2 minutes. Réception, émission, e-reporting : où en est l'entreprise, les dates qui la concernent et ce qu'il reste à faire. Verdict sans email ; plan d'action daté envoyé sur demande.
+
+## Offres (TVA non applicable, art. 293 B du CGI)
+- [Pré-audit gratuit](https://opusadvisor.fr/contact/): 30 minutes en visio pour repérer 3 points de friction dans les outils de l'entreprise. Gratuit et sans engagement.
+- [Audit Stack](https://opusadvisor.fr/services/#audit-stack): 990 €, 10 jours ouvrés. Cartographie des outils, recommandation pour chacun (l'ajouter, le remplacer ou le relier aux autres) et type de système à prévoir.
+- [Diagnostic opérationnel](https://opusadvisor.fr/services/#diagnostic): 2 500 €, 2 à 3 semaines. Plan chiffré, avec le gain attendu.
+- [Mise en œuvre](https://opusadvisor.fr/services/#implementation): à partir de 5 500 €, 4 à 10 semaines. Construction du système défini au diagnostic, tests sur les vrais dossiers, formation de l'équipe, documentation.
+- [Gardien du système](https://opusadvisor.fr/services/#suivi): 400 à 1 500 € par mois, sans engagement (formule Premium : 12 mois). Surveillance, point mensuel et évolutions du système.
+
+## Secteurs
+- [Organismes de formation](https://opusadvisor.fr/secteurs/formation/): conventions, convocations, émargements, dossiers pour les financeurs, preuves Qualiopi, BPF.
+- [Immobilier et conciergerie](https://opusadvisor.fr/secteurs/immobilier/): facturation des propriétaires, plannings de ménage, factures prestataires, suivi des mandats et des agents.
+- [BTP second œuvre](https://opusadvisor.fr/secteurs/btp/): devis, relances d'impayés, suivi de chantier, facturation électronique.
+
+## Cas clients (missions réelles, sans nom de client)
+- Organisme de formation : Les dossiers de financement se préparent et partent tout seuls. On a automatisé la génération des dossiers et leur envoi aux financeurs. Le système tourne au quotidien : l'équipe ne monte plus les dossiers à la main.
+- Conciergerie : Une seule automatisation pour facturer tous les propriétaires. On a remplacé toutes ces automatisations par une seule, qui facture l'ensemble des propriétaires, et ajouté de quoi simplifier la maintenance du reste du système. Un seul scénario à surveiller et à faire évoluer. Un nouveau propriétaire ne demande plus de nouvelle automatisation.
+- Équipe d'agents immobiliers · mission en sous-traitance : Un manager qui suit toute son équipe depuis un seul outil. On a construit l'outil de suivi : les dossiers de chaque agent, la gestion de chaque bien et l'avancement des ventes, au même endroit. Le manager revoit les dossiers de son équipe et voit où en sont les ventes, sans courir après l'information.
+- Programme Opus Pilotes : 3 places pour le BTP second œuvre en Bretagne et Pays-de-la-Loire.
+Détails : https://opusadvisor.fr/cas-clients/
+
+## Questions fréquentes
+### Avec quels types d’entreprises travaillez-vous ?
+Surtout avec des organismes de formation, des entreprises de l'immobilier (agences, conciergeries) et le BTP second œuvre. Le point commun : du travail sur le terrain ou auprès des clients, et un administratif qui déborde. Dossiers, factures, relances, plannings, le tout ressaisi dans plusieurs outils. Si votre entreprise ne correspond pas à ce profil, on vous le dit dès le pré-audit.
+
+### Faut-il changer de logiciel ?
+Pas forcément. Si vos logiciels font l'affaire, on les garde : on corrige leur paramétrage, on les relie au reste (tableurs, mails, banque, planning) et, si besoin, on ajoute une application centrale plus simple à utiliser. S'ils sont inadaptés, ou si vous partez de zéro, on construit le système complet avec vous. On ne revend aucun logiciel. Si on vous conseille d'en changer, on n'y gagne rien.
+
+### Combien ça coûte ?
+Chaque étape a son prix, affiché sur la page Services : Audit Stack : 990 € ; Diagnostic : 2 500 € ; Mise en œuvre : à partir de 5 500 € ; Gardien du système : 400 à 1 500 € par mois, sans engagement. Pour une entreprise d'une dizaine de personnes, comptez environ 17 500 € sur deux ans, suivi compris. Pour voir clair avant de vous engager, commencez par l'Audit Stack.
+
+### Combien de temps avant de voir des résultats ?
+On s'engage sur 10 heures par semaine rendues à votre entreprise à partir du deuxième mois. Dans le détail : le diagnostic est livré 2 à 3 semaines après le cadrage ; la mise en œuvre prend 4 à 10 semaines selon ce qu'il y a à installer ; les premiers gains se mesurent dès la deuxième semaine de mise en œuvre. Si on ne peut pas chiffrer le gain au départ, on ne s'engage pas.
+
+### Je ne suis pas à l'aise avec l'informatique. Il va falloir apprendre 10 outils ?
+Non, on fait le contraire. Le système est construit pour les personnes qui l'utilisent. Ce que vous savez déjà utiliser reste (votre logiciel, Excel, vos mails, WhatsApp), et ce qu'on ajoute est fait pour être simple : un seul écran à ouvrir au lieu de cinq. On forme la personne qui gère l'administratif en 2 heures, et les équipes en 1 heure. La documentation reste chez vous.
+
+### Et la facturation électronique, vous gérez ?
+Oui, on l'aborde à chaque mission. Depuis septembre 2026, toutes les entreprises doivent pouvoir recevoir des factures électroniques. En septembre 2027, les PME devront aussi les émettre. Un système propre se prépare en 2 à 3 mois : plus vous attendez, plus la mise en conformité coûtera cher dans l'urgence. Pour savoir où vous en êtes, faites le diagnostic gratuit (https://opusadvisor.fr/diagnostic-facture-electronique/) : 7 questions, 2 minutes, sans laisser votre email. La veille réglementaire de votre secteur est comprise dans le Gardien du système.
+
+### Qu'est-ce qui se passe si vous disparaissez dans 2 ans ?
+Votre système continue de tourner sans nous. Pour que ce soit vrai, on prend trois engagements : une documentation complète remise à votre équipe à la fin de la mise en œuvre ; la formation des personnes qui utilisent le système au quotidien ; tous les comptes et tous les outils restent à votre nom, jamais au nôtre. Le Gardien est sans engagement, sauf la formule Premium (12 mois). Vous le gardez tant qu'il vous sert.
+
+### Vous pouvez travailler avec mon expert-comptable ?
+Oui, et c'est même souvent une bonne idée. On se partage le travail : votre expert-comptable garde la comptabilité et le pilotage financier, on s'occupe des outils et de la façon dont ils s'enchaînent au quotidien.
+
+## Outils gratuits
+- [Calcul de marge chantier](https://opusadvisor.fr/outils/calcul-marge-chantier/): Déboursé sec, prix de revient, marge brute, bénéfice net et prix de vente à pratiquer pour gagner ce que vous visez.
+- [Calcul du coût horaire de main-d'œuvre](https://opusadvisor.fr/outils/calcul-cout-horaire-main-doeuvre/): Ce que coûte vraiment une heure de compagnon (salaire chargé, indemnités, véhicule, heures facturées) et le taux horaire à facturer.
+- [Indice BT01 et révision de prix](https://opusadvisor.fr/outils/indice-bt01/): Dernières valeurs des index BT publiés par l'INSEE, mises à jour automatiquement, et calcul de la révision d'un prix entre deux mois.
+- [Calcul des pénalités de retard](https://opusadvisor.fr/outils/calcul-penalites-de-retard/): Pénalités dues sur une facture payée en retard entre professionnels, au taux en vigueur à l'échéance, avec l'indemnité de 40 €.
+- [Calcul de la retenue de garantie](https://opusadvisor.fr/outils/calcul-retenue-de-garantie/): Montant de la retenue de garantie sur un marché de travaux, sur le HT ou le TTC, avec sa date de libération.
+- [Calcul d’une facture de situation](https://opusadvisor.fr/outils/calcul-situation-de-travaux/): Montant d’une situation de travaux à partir de l’avancement cumulé : HT, TVA, retenue de garantie et net à payer.
+
+## Articles
+- [Organisme de formation : facturation électronique et TVA exonérée](https://opusadvisor.fr/articles/facturation-electronique-organisme-formation/): Organisme de formation exonéré, mixte ou taxable : ce que la facturation électronique impose depuis septembre 2026, avec les textes officiels.
+- [Automatisation d'un organisme de formation : par où commencer](https://opusadvisor.fr/articles/automatisation-organisme-de-formation/): Automatisation d'un organisme de formation : ce que fait déjà votre logiciel, ce qui reste à la main et par quoi commencer, session par session.
+- [Fin de la subrogation OPCO : qui facturer depuis octobre 2026](https://opusadvisor.fr/articles/fin-subrogation-opco-organisme-formation/): Subrogation OPCO depuis octobre 2026 : qui facturer selon l'OPCO et le dossier, et comment suivre paiements et relances dans votre organisme.
+- [Calculer la marge d'un chantier : prévue contre réelle](https://opusadvisor.fr/articles/marge-chantier-suivi-reel/): Comment calculer la marge réelle d'un chantier BTP : déboursé sec, heures improductives, petites dépenses oubliées. Avec un calculateur gratuit.
+- [L'IA dans le BTP : inutile tant que vos données sont en vrac](https://opusadvisor.fr/articles/ia-btp-donnees-propres/): Une étude 2026 sur 621 entreprises du BTP le confirme : le frein n°1 à l'IA, c'est la qualité des données. Pourquoi il faut ranger avant d'automatiser.
+- [Sous-traitance BTP : paiement direct et autoliquidation de TVA](https://opusadvisor.fr/articles/sous-traitance-btp-paiement-direct/): Sous-traitant BTP : obtenir le paiement direct du maître d'ouvrage (loi de 1975) et mettre la bonne mention d'autoliquidation de TVA sur vos factures.
+- [Temps administratif des artisans du BTP : 13 h par semaine](https://opusadvisor.fr/articles/temps-administratif-artisans-btp/): Une étude d'avril 2026 chiffre à 13 h 21/semaine le temps administratif d'un patron du bâtiment. Où il part, et comment en récupérer la moitié.
+- [Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers](https://opusadvisor.fr/articles/penurie-main-doeuvre-organisation/): Recrutements en baisse de 16 % dans le BTP en 2026, profils qualifiés introuvables. Garder vos bons gars se joue surtout sur l'organisation des chantiers.
+- [MaPrimeRénov' 2026 : ce qui change pour les dossiers des artisans](https://opusadvisor.fr/articles/maprimerenov-2026/): Suspendue, rouverte, puis durcie avec l'exclusion du gaz : MaPrimeRénov' a changé trois fois en 2026. Sur votre boîte, ce qui coûte cher, c'est le dossier.
+- [Facturation électronique : 4 TPE sur 10 ne seront pas prêtes en septembre 2026](https://opusadvisor.fr/articles/facturation-electronique-2026/): À 3 mois du 1er septembre 2026, 40 % des TPE ne peuvent pas recevoir une facture électronique. Dans le BTP, c'est pire. Quoi faire dans les 30 jours.
+- [Facture impayée dans le BTP : modèles de relance et séquence](https://opusadvisor.fr/articles/relances-automatiques-impayes-btp/): Modèles de relance de facture impayée pour le BTP : rappel, relance par mail, dernier rappel avant mise en demeure, et la séquence pour les automatiser.
+- [Logiciel BTP : s'équiper pour 200 à 500 € par mois, sans ERP](https://opusadvisor.fr/articles/automatiser-sans-erp/): Un commercial vous propose un tout-en-un à 35 000 € ? Le plus souvent, 200 à 500 €/mois d'outils existants couvrent 90 % du besoin. Pourquoi, et comment.
+- [Comment on diagnostique une boîte du second œuvre en 3 semaines](https://opusadvisor.fr/articles/diagnostic-operationnel-pme/): Les cabinets facturent un audit 15 à 30 000 € sur 2-3 mois. Notre méthode tient en 3 semaines pour 2 500 €. Ce qu'on regarde et pourquoi ça suffit.
+- [Changer de logiciel BTP ? 4 questions avant de signer](https://opusadvisor.fr/articles/organisation-avant-developpement/): Envie de changer de logiciel BTP ? Le plus souvent, le frein vient de l'usage, pas de l'outil. Quatre questions avant de signer un devis à 30 000 €.
+- [Appli de suivi de chantier sur mesure : quand ça vaut le coup](https://opusadvisor.fr/articles/applications-glide/): Glide, Softr, Bubble : une application de suivi de chantier sur mesure est utile dans 3 cas précis. Comment le savoir avant d'y mettre 5 000 à 15 000 €.
+
+## À propos
+- [Équipe](https://opusadvisor.fr/equipe/): Enzo Monnier (fondateur, ancien développeur, il code lui-même les systèmes) et Gwendoline (associée).
+- [Consultant à Rennes](https://opusadvisor.fr/consultant-rennes/): installés à Rennes, déplacements sur site pendant les missions à moins de deux heures de Rennes (Bretagne, Pays-de-la-Loire) ; pré-audit en visio partout en France.
+- Contact : enzo@opusadvisor.fr

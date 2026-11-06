@@ -1,0 +1,99 @@
+1:"$Sreact.fragment"
+3:I[9766,[],""]
+4:I[8924,[],""]
+5:I[2960,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"Header"]
+f:I[7150,[],""]
+:HL["/_next/static/media/9d5a263311222317-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/e4af272ccee01ff0-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/bb150b2d65e21410.css","style"]
+:HL["/_next/static/css/dceda4ec131cabf6.css","style"]
+2:T840,{"@context":"https://schema.org","@graph":[{"@type":"ProfessionalService","@id":"https://opusadvisor.fr/#organization","name":"Opus Advisor","alternateName":"Opus Advisor","description":"Organisation et automatisation de la gestion des petites entreprises (organismes de formation, immobilier et conciergerie, BTP second œuvre) : des systèmes construits à l'image de chaque entreprise, des automatisations entre les logiciels existants jusqu'au système complet monté de A à Z. Diagnostic chiffré, mise en œuvre, formation de l'équipe, suivi.","url":"https://opusadvisor.fr","logo":"https://opusadvisor.fr/images/opus-icon.png","image":"https://opusadvisor.fr/images/Logo_1200x630.png","email":"enzo@opusadvisor.fr","telephone":"+33615756549","founder":{"@type":"Person","@id":"https://opusadvisor.fr/equipe/#enzo-monnier","name":"Enzo Monnier","jobTitle":"Consultant en organisation et automatisation","url":"https://www.linkedin.com/in/enzo-monnier/"},"address":{"@type":"PostalAddress","streetAddress":"25 allée du petit domaine","postalCode":"35590","addressLocality":"L'Hermitage","addressRegion":"Bretagne","addressCountry":"FR"},"contactPoint":{"@type":"ContactPoint","contactType":"sales","email":"enzo@opusadvisor.fr","telephone":"+33615756549","areaServed":"FR","availableLanguage":["French"]},"areaServed":{"@type":"Country","name":"France"},"serviceType":["Automatisation de la gestion administrative","Automatisation pour organismes de formation","Automatisation pour conciergeries et agences immobilières","Automatisation pour le BTP second œuvre","Mise en conformité facturation électronique 2027","Automatisation Make et n8n","Formation de l'équipe"],"knowsAbout":["organismes de formation","Qualiopi","conciergerie","location courte durée","agences immobilières","second œuvre","électricité","plomberie","chauffage-climatisation","Batappli","Obat","Tolteck","EBP Bâtiment","facturation électronique 2027","Make","n8n","Notion","WhatsApp Business"],"sameAs":["https://www.linkedin.com/in/enzo-monnier/","https://www.instagram.com/opusadvisor/","https://x.com/opusadvisor"]}]}0:{"P":null,"b":"VyCp5VQsLhg_ChQs2pQFF","p":"","c":["","articles","penurie-main-doeuvre-organisation",""],"i":false,"f":[[["",{"children":["articles",{"children":[["slug","penurie-main-doeuvre-organisation","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/bb150b2d65e21410.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/dceda4ec131cabf6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"fr","className":"__variable_aa6f30 __variable_e3a89d","children":[["$","head",null,{"children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","script",null,{"defer":true,"src":"/s.js","data-website-id":"c06738dc-ecbf-4865-b2e6-39bea1b1a70c","data-domains":"opusadvisor.fr"}]]}],["$","body",null,{"children":[["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"min-h-screen flex flex-col bg-white","children":[["$","$L5",null,{}],["$","main",null,{"className":"flex-grow flex items-center justify-center py-24","children":["$","div",null,{"className":"text-center px-6","children":[["$","p",null,{"className":"text-sm font-semibold tracking-[0.25em] uppercase mb-4","style":{"color":"#8A6A1C"},"children":"Erreur 404"}],["$","h1",null,{"className":"text-5xl md:text-7xl font-bold text-gray-900 mb-6","children":"Page introuvable"}],"$L6","$L7"]}]}],"$L8"]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}],"$L9","$La"]}]]}]]}],{"children":["articles","$Lb",{"children":[["slug","penurie-main-doeuvre-organisation","d"],"$Lc",{"children":["__PAGE__","$Ld",{},null,false]},null,false]},null,false]},null,false],"$Le",false]],"m":"$undefined","G":["$f",[]],"s":false,"S":true}
+10:I[2619,["465","static/chunks/465-c557c8792e1c1d65.js","621","static/chunks/621-f07f8a7f6e5bc7f0.js","462","static/chunks/462-7e0ed94289eeef2d.js","336","static/chunks/336-518570efe839e3b0.js","974","static/chunks/app/page-8a639fe55063774a.js"],""]
+11:I[3435,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"Footer"]
+12:I[9161,["177","static/chunks/app/layout-9c87e3a79982b72e.js"],"ClickTracker"]
+13:I[2931,["177","static/chunks/app/layout-9c87e3a79982b72e.js"],"RevealProvider"]
+15:I[4431,[],"OutletBoundary"]
+17:I[5278,[],"AsyncMetadataOutlet"]
+19:I[4431,[],"ViewportBoundary"]
+1b:I[4431,[],"MetadataBoundary"]
+1c:"$Sreact.suspense"
+6:["$","p",null,{"className":"text-gray-600 text-lg mb-10 max-w-md mx-auto","children":"La page que vous recherchez n'existe pas ou a été déplacée."}]
+7:["$","$L10",null,{"href":"/","className":"inline-flex items-center gap-3 text-white px-8 py-4 rounded-xl font-semibold hover:scale-105 transition-all duration-200","style":{"background":"#1A2332"},"children":"Retour à l'accueil"}]
+8:["$","$L11",null,{}]
+9:["$","$L12",null,{}]
+a:["$","$L13",null,{}]
+b:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+c:["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}]
+d:["$","$1","c",{"children":["$L14",null,["$","$L15",null,{"children":["$L16",["$","$L17",null,{"promise":"$@18"}]]}]]}]
+e:["$","$1","h",{"children":[null,[["$","$L19",null,{"children":"$L1a"}],["$","meta",null,{"name":"next-size-adjust","content":""}]],["$","$L1b",null,{"children":["$","div",null,{"hidden":true,"children":["$","$1c",null,{"fallback":null,"children":"$L1d"}]}]}]]}]
+1f:I[2015,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"ArticleView"]
+1e:T4f7,{"@context":"https://schema.org","@type":"BlogPosting","headline":"Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers","description":"Recrutements en baisse de 16 % dans le BTP en 2026, profils qualifiés introuvables. Garder vos bons gars se joue surtout sur l'organisation des chantiers.","image":"https://opusadvisor.fr/images/Logo_1200x630.png","url":"https://opusadvisor.fr/articles/penurie-main-doeuvre-organisation/","mainEntityOfPage":{"@type":"WebPage","@id":"https://opusadvisor.fr/articles/penurie-main-doeuvre-organisation/"},"datePublished":"2026-05-29","dateModified":"2026-10-19","articleSection":"Organisation et gestion des entreprises du BTP","keywords":"pénurie main d'oeuvre BTP, fidélisation salariés bâtiment, organisation de chantier second œuvre, recrutement artisan 2026, turnover BTP","author":{"@type":"Person","@id":"https://opusadvisor.fr/equipe/#enzo-monnier","name":"Enzo Monnier","url":"https://opusadvisor.fr/equipe/","jobTitle":"Fondateur d'Opus Advisor","worksFor":{"@type":"Organization","name":"Opus Advisor","url":"https://opusadvisor.fr"}},"publisher":{"@type":"Organization","name":"Opus Advisor","url":"https://opusadvisor.fr","logo":{"@type":"ImageObject","url":"https://opusadvisor.fr/images/opus-icon.png"}}}20:T157c,En 2026, les recrutements reculent de 16 % dans le bâtiment, et les profils qualifiés restent introuvables. Tous les patrons du bâtiment parlent de la difficulté à embaucher. Beaucoup moins de la difficulté à garder. C'est pourtant là que se joue le vrai sujet. La bonne nouvelle : garder ses bons gars dépend surtout de la façon dont tournent vos chantiers, bien avant la paie.
+
+## Le vrai chiffre n'est pas celui que vous croyez
+
+On parle partout de la pénurie à l'entrée. Les 139 510 projets de recrutement de la construction en 2026, en baisse de 16,4 % sur un an, les CV qui ne viennent pas, les écoles qui ne forment pas assez. Tout ça est réel, et ça ne couvre que la moitié du problème.
+
+L'autre moitié, celle dont on parle peu, c'est la sortie. Un bon électricien, un bon chef d'équipe, un bon chargé d'affaires qui part au bout de deux ans, ça vous coûte double : le remplacement à payer, et tout le savoir qui s'en va avec lui. Vous recrutez alors pour boucher un trou que vous avez vous-même creusé sans le vouloir.
+
+Tant que vous remplacez plus vite que vous ne fidélisez, vous courez après l'eau. Recruter mieux ne sert à rien si la boîte fuit par le bas.
+
+## Vos meilleurs partent rarement pour le salaire
+
+On a tendance à croire que tout se règle au salaire. Les boîtes qui fidélisent le mieux prouvent le contraire. Le levier qui marche combine plusieurs choses, et la rémunération n'est qu'une pièce parmi d'autres.
+
+Ce qui use vraiment un bon compagnon, c'est le chaos quotidien :
+
+- Le chantier mal préparé où il arrive et le matériel n'est pas là.
+- Le planning qui change trois fois dans la semaine parce que personne n'a de vision claire.
+- Les ordres contradictoires entre le bureau et le terrain.
+- Les heures sup' qu'il faut réclamer parce que personne ne les a notées.
+- Le sentiment de bosser dans une boîte qui s'improvise tous les matins.
+
+Un bon professionnel supporte un chantier dur. Il supporte mal une boîte désorganisée. La désorganisation, pour lui, c'est du temps perdu, des engueulades évitables et le sentiment de ne pas être respecté.
+
+## L'organisation, c'est devenu un argument d'embauche
+
+Les entreprises qui recrutent et gardent le mieux paient rarement plus que les autres. Elles offrent surtout des conditions lisibles : planning anticipé, chantiers bien préparés, outillage récent, et une organisation où chacun sait ce qu'il a à faire.
+
+Autrement dit, l'organisation est devenue un argument d'attractivité à part entière. À salaire égal, un compagnon choisira la boîte où il sait, le dimanche soir, où il bosse lundi, avec quel matériel et avec qui.
+
+Et ça, ça relève moins du budget que du système.
+
+## Ce qu'un système qui tient change pour vos équipes
+
+On ne va pas vous vendre un logiciel RH, le sujet est ailleurs. La plupart des frictions qui font fuir vos bons gars viennent d'outils qui ne se parlent pas : le planning dans une tête, les chantiers dans WhatsApp, les heures sur un carnet, le matériel nulle part.
+
+Quand on remet tout ça en ordre, voilà ce que vos équipes voient changer sur le terrain :
+
+- **Un planning unique, à jour, visible par tous.** Fini les trois versions contradictoires. Chacun sait où il va, et quand ça bouge, tout le monde le voit en même temps.
+- **Des chantiers préparés en amont.** Le matériel, les plans, les accès, les contacts : centralisés, accessibles depuis le téléphone, plus de compagnon qui poireaute devant un chantier fermé.
+- **Les heures et les pointages qui remontent tout seuls.** Plus besoin de réclamer, plus d'erreurs de paie, et la tension de fin de mois retombe.
+- **L'info qui ne se perd plus quand quelqu'un part.** Le savoir reste dans le système, pas dans la tête d'un seul.
+
+Aucune de ces briques n'est un gadget. Chacune retire une source de friction quotidienne. Mises bout à bout, elles font la différence entre une boîte où on reste et une boîte qu'on quitte.
+
+## Par où commencer
+
+Avant de remettre une annonce ou de [surenchérir sur les salaires](/outils/calcul-cout-horaire-main-doeuvre/), posez-vous une question simple : sur vos six derniers départs, combien tenaient vraiment à l'argent, et combien au ras-le-bol ?
+
+Si la deuxième colonne pèse plus lourd que la première, regardez du côté de votre organisation plutôt que de votre grille de salaire. Contrairement au marché de l'emploi, sur lequel vous ne pouvez pas grand-chose, [votre organisation, vous pouvez la reprendre en main](/secteurs/btp/).
+
+C'est exactement ce qu'on regarde au pré-audit : on part de vos chantiers réels, on repère les frictions qui usent vos équipes, et [on chiffre ce qu'un système propre vous ferait gagner](/services/), en temps comme en gars qui restent.
+
+---
+
+**Vous voulez voir ce que ça donne pour votre boîte ?** Pré-audit gratuit en visio, 30 minutes, sans engagement. Vous nous montrez comment tournent vos chantiers, on vous montre en direct les points qui vous coûtent du temps et des équipes.
+
+[Réserver un créneau](/contact)
+
+---
+
+*Sources : [Batiweb — recrutements BTP en baisse en 2026, pénurie de profils qualifiés](https://www.batiweb.com/actualites/emploi/btp-recrutements-baisse-2026-penurie-profils-48657), [BTP Challenge — et si le vrai problème était la fidélisation ?](https://www.btpchallenge.net/penurie-de-main-doeuvre-dans-le-btp-et-si-le-vrai-probleme-etait-la-fidelisation), enquête Besoins en main-d'œuvre (France Travail, 2026).*14:[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$1e"}}],null,["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Accueil\",\"item\":\"https://opusadvisor.fr/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Articles\",\"item\":\"https://opusadvisor.fr/articles/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers\",\"item\":\"https://opusadvisor.fr/articles/penurie-main-doeuvre-organisation/\"}]}"}}],["$","$L5",null,{}],["$","main",null,{"className":"min-h-screen bg-white","children":[["$","$L1f",null,{"title":"Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers","description":"Recrutements en baisse de 16 % dans le BTP en 2026, profils qualifiés introuvables. Garder vos bons gars se joue surtout sur l'organisation des chantiers.","content":"$20","publishedLabel":"29 mai 2026","updatedLabel":"19 octobre 2026","readingMinutes":4,"essentiel":["Les projets de recrutement dans la construction reculent de 16,4 % en 2026 : garder ses bons ouvriers compte autant que recruter.","Les bons compagnons partent souvent à cause du désordre : matériel absent, planning qui change trois fois, heures sup' non notées.","Un planning unique, des chantiers préparés et des heures qui remontent seules suppriment ces frictions."],"faq":[],"ctaMid":"$undefined"}],"$L21"]}],"$L22"]
+23:I[8132,["465","static/chunks/465-c557c8792e1c1d65.js","558","static/chunks/558-5f831f3bbbb0501f.js","462","static/chunks/462-7e0ed94289eeef2d.js","904","static/chunks/app/articles/%5Bslug%5D/page-3f468e79e33a3257.js"],"RelatedArticles"]
+21:["$","$L23",null,{"currentArticleId":14}]
+22:["$","$L11",null,{}]
+1a:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:null
+24:I[622,[],"IconMark"]
+18:{"metadata":[["$","title","0",{"children":"Pénurie de main-d'œuvre BTP : garder vos bons ouvriers"}],["$","meta","1",{"name":"description","content":"Recrutements en baisse de 16 % dans le BTP en 2026, profils qualifiés introuvables. Garder vos bons gars se joue surtout sur l'organisation des chantiers."}],["$","link","2",{"rel":"manifest","href":"/manifest.json","crossOrigin":"$undefined"}],["$","meta","3",{"name":"keywords","content":"pénurie main d'oeuvre BTP,fidélisation salariés bâtiment,organisation de chantier second œuvre,recrutement artisan 2026,turnover BTP"}],["$","meta","4",{"name":"robots","content":"index, follow"}],["$","link","5",{"rel":"canonical","href":"https://opusadvisor.fr/articles/penurie-main-doeuvre-organisation/"}],["$","meta","6",{"property":"og:title","content":"Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers"}],["$","meta","7",{"property":"og:description","content":"Recrutements en baisse de 16 % dans le BTP en 2026, profils qualifiés introuvables. Garder vos bons gars se joue surtout sur l'organisation des chantiers."}],["$","meta","8",{"property":"og:url","content":"https://opusadvisor.fr/articles/penurie-main-doeuvre-organisation/"}],["$","meta","9",{"property":"og:image","content":"https://opusadvisor.fr/images/Logo_1200x630.png"}],["$","meta","10",{"property":"og:image:alt","content":"Illustration de l'article : Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers"}],["$","meta","11",{"property":"og:type","content":"article"}],["$","meta","12",{"property":"article:published_time","content":"2026-05-29"}],["$","meta","13",{"property":"article:modified_time","content":"2026-10-19"}],["$","meta","14",{"property":"article:author","content":"Enzo Monnier"}],["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","16",{"name":"twitter:title","content":"Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers"}],["$","meta","17",{"name":"twitter:description","content":"Recrutements en baisse de 16 % dans le BTP en 2026, profils qualifiés introuvables. Garder vos bons gars se joue surtout sur l'organisation des chantiers."}],["$","meta","18",{"name":"twitter:image","content":"https://opusadvisor.fr/images/Logo_1200x630.png"}],["$","meta","19",{"name":"twitter:image:alt","content":"Illustration de l'article : Pénurie de main-d'œuvre dans le BTP : garder vos bons ouvriers"}],["$","link","20",{"rel":"icon","href":"/images/opus-icon.png"}],["$","link","21",{"rel":"apple-touch-icon","href":"/images/opus-icon.png"}],["$","$L24","22",{}]],"error":null,"digest":"$undefined"}
+1d:"$18:metadata"

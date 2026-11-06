@@ -1,0 +1,24 @@
+User-agent: *
+Allow: /
+
+# Moteurs de recherche et assistants IA : accès autorisé. La règle ci-dessus suffit ;
+# la liste rend l'intention explicite pour les robots qui cherchent leur nom.
+User-agent: Googlebot
+User-agent: Google-Extended
+User-agent: Bingbot
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: anthropic-ai
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Applebot
+User-agent: Applebot-Extended
+User-agent: MistralAI-User
+User-agent: CCBot
+Allow: /
+
+Sitemap: https://opusadvisor.fr/sitemap.xml
